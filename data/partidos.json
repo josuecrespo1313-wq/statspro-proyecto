@@ -1,0 +1,6820 @@
+{
+  "exportedAt": "2026-11-14T17:05:08.539Z",
+  "matches": [
+    {
+      "id": "apif-1528968",
+      "fixtureId": 1528968,
+      "dateGroup": "2026-11-13",
+      "kickoff": "2026-11-13T17:00:00+00:00",
+      "hour": "17:00",
+      "status": "FIN",
+      "league": "UEFA Nations League",
+      "leagueId": 5,
+      "leagueSeason": 2026,
+      "leagueLogo": "https://media.api-sports.io/football/leagues/5.png",
+      "source": "API-Football",
+      "updatedAt": "2026-11-14T16:59:26.197Z",
+      "enrichedAt": 1794675593352,
+      "local": {
+        "name": "Moldova",
+        "id": "1114",
+        "logo": "https://media.api-sports.io/football/teams/1114.png",
+        "history": [
+          {
+            "fixtureId": 1173030,
+            "date": "2024-09-07T16:00:00+00:00",
+            "venue": "home",
+            "xGFor": 2,
+            "xGAgainst": 0,
+            "goalsFor": 2,
+            "goalsAgainst": 0,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1173032,
+            "date": "2024-10-10T16:00:00+00:00",
+            "venue": "home",
+            "xGFor": 2,
+            "xGAgainst": 0,
+            "goalsFor": 2,
+            "goalsAgainst": 0,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1173033,
+            "date": "2024-10-13T16:00:00+00:00",
+            "venue": "away",
+            "xGFor": 0,
+            "xGAgainst": 1,
+            "goalsFor": 0,
+            "goalsAgainst": 1,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1173034,
+            "date": "2024-11-16T17:00:00+00:00",
+            "venue": "away",
+            "xGFor": 1,
+            "xGAgainst": 0,
+            "goalsFor": 1,
+            "goalsAgainst": 0,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1174092,
+            "date": "2024-03-22T14:30:00+00:00",
+            "venue": "away",
+            "xGFor": 1,
+            "xGAgainst": 1,
+            "goalsFor": 1,
+            "goalsAgainst": 1,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1175045,
+            "date": "2024-06-08T16:00:00+00:00",
+            "venue": "home",
+            "xGFor": 3,
+            "xGAgainst": 2,
+            "goalsFor": 3,
+            "goalsAgainst": 2,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1182786,
+            "date": "2024-06-11T16:00:00+00:00",
+            "venue": "home",
+            "xGFor": 0,
+            "xGAgainst": 4,
+            "goalsFor": 0,
+            "goalsAgainst": 4,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1182787,
+            "date": "2024-09-10T11:00:00+00:00",
+            "venue": "home",
+            "xGFor": 1,
+            "xGAgainst": 0,
+            "goalsFor": 1,
+            "goalsAgainst": 0,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1187442,
+            "date": "2024-03-26T14:00:00+00:00",
+            "venue": "away",
+            "xGFor": 4,
+            "xGAgainst": 0,
+            "goalsFor": 4,
+            "goalsAgainst": 0,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1286334,
+            "date": "2024-11-19T17:00:00+00:00",
+            "venue": "away",
+            "xGFor": 1,
+            "xGAgainst": 1,
+            "goalsFor": 1,
+            "goalsAgainst": 1,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1323244,
+            "date": "2025-03-22T17:00:00+00:00",
+            "venue": "home",
+            "xGFor": 0,
+            "xGAgainst": 5,
+            "goalsFor": 0,
+            "goalsAgainst": 5,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1323256,
+            "date": "2025-03-25T17:00:00+00:00",
+            "venue": "home",
+            "xGFor": 2,
+            "xGAgainst": 3,
+            "goalsFor": 2,
+            "goalsAgainst": 3,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1323288,
+            "date": "2025-09-05T18:45:00+00:00",
+            "venue": "home",
+            "xGFor": 0,
+            "xGAgainst": 4,
+            "goalsFor": 0,
+            "goalsAgainst": 4,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1323303,
+            "date": "2025-09-09T18:45:00+00:00",
+            "venue": "away",
+            "xGFor": 1,
+            "xGAgainst": 11,
+            "goalsFor": 1,
+            "goalsAgainst": 11,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1323340,
+            "date": "2025-10-14T16:00:00+00:00",
+            "venue": "away",
+            "xGFor": 1,
+            "xGAgainst": 1,
+            "goalsFor": 1,
+            "goalsAgainst": 1,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1323363,
+            "date": "2025-11-16T19:45:00+00:00",
+            "venue": "away",
+            "xGFor": 1,
+            "xGAgainst": 4,
+            "goalsFor": 1,
+            "goalsAgainst": 4,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1366276,
+            "date": "2025-06-09T18:45:00+00:00",
+            "venue": "away",
+            "xGFor": 0,
+            "xGAgainst": 2,
+            "goalsFor": 0,
+            "goalsAgainst": 2,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1366313,
+            "date": "2025-11-13T19:45:00+00:00",
+            "venue": "home",
+            "xGFor": 0,
+            "xGAgainst": 2,
+            "goalsFor": 0,
+            "goalsAgainst": 2,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          }
+        ]
+      },
+      "visita": {
+        "name": "Kazakhstan",
+        "id": "1095",
+        "logo": "https://media.api-sports.io/football/teams/1095.png",
+        "history": [
+          {
+            "fixtureId": 1169679,
+            "date": "2024-03-14T00:00:00+00:00",
+            "venue": "home",
+            "xGFor": 2,
+            "xGAgainst": 0,
+            "goalsFor": 2,
+            "goalsAgainst": 0,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1171754,
+            "date": "2024-06-07T16:00:00+00:00",
+            "venue": "away",
+            "xGFor": 1,
+            "xGAgainst": 2,
+            "goalsFor": 1,
+            "goalsAgainst": 2,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1172891,
+            "date": "2024-09-06T14:00:00+00:00",
+            "venue": "home",
+            "xGFor": 0,
+            "xGAgainst": 0,
+            "goalsFor": 0,
+            "goalsAgainst": 0,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1172900,
+            "date": "2024-09-09T18:45:00+00:00",
+            "venue": "away",
+            "xGFor": 0,
+            "xGAgainst": 3,
+            "goalsFor": 0,
+            "goalsAgainst": 3,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1172909,
+            "date": "2024-10-10T18:45:00+00:00",
+            "venue": "away",
+            "xGFor": 0,
+            "xGAgainst": 4,
+            "goalsFor": 0,
+            "goalsAgainst": 4,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1172915,
+            "date": "2024-10-13T13:00:00+00:00",
+            "venue": "home",
+            "xGFor": 0,
+            "xGAgainst": 1,
+            "goalsFor": 0,
+            "goalsAgainst": 1,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1172923,
+            "date": "2024-11-14T15:00:00+00:00",
+            "venue": "home",
+            "xGFor": 0,
+            "xGAgainst": 2,
+            "goalsFor": 0,
+            "goalsAgainst": 2,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1172934,
+            "date": "2024-11-17T17:00:00+00:00",
+            "venue": "away",
+            "xGFor": 0,
+            "xGAgainst": 5,
+            "goalsFor": 0,
+            "goalsAgainst": 5,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1187512,
+            "date": "2024-03-26T19:45:00+00:00",
+            "venue": "away",
+            "xGFor": 1,
+            "xGAgainst": 2,
+            "goalsFor": 1,
+            "goalsAgainst": 2,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1199026,
+            "date": "2024-06-11T14:00:00+00:00",
+            "venue": "away",
+            "xGFor": 2,
+            "xGAgainst": 3,
+            "goalsFor": 2,
+            "goalsAgainst": 3,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1323247,
+            "date": "2025-03-22T19:45:00+00:00",
+            "venue": "away",
+            "xGFor": 1,
+            "xGAgainst": 3,
+            "goalsFor": 1,
+            "goalsAgainst": 3,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1323257,
+            "date": "2025-03-25T19:45:00+00:00",
+            "venue": "away",
+            "xGFor": 2,
+            "xGAgainst": 0,
+            "goalsFor": 2,
+            "goalsAgainst": 0,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1323270,
+            "date": "2025-06-09T14:00:00+00:00",
+            "venue": "home",
+            "xGFor": 0,
+            "xGAgainst": 1,
+            "goalsFor": 0,
+            "goalsAgainst": 1,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1323279,
+            "date": "2025-09-04T14:00:00+00:00",
+            "venue": "home",
+            "xGFor": 0,
+            "xGAgainst": 1,
+            "goalsFor": 0,
+            "goalsAgainst": 1,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1323299,
+            "date": "2025-09-07T18:45:00+00:00",
+            "venue": "away",
+            "xGFor": 0,
+            "xGAgainst": 6,
+            "goalsFor": 0,
+            "goalsAgainst": 6,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1323316,
+            "date": "2025-10-10T14:00:00+00:00",
+            "venue": "home",
+            "xGFor": 4,
+            "xGAgainst": 0,
+            "goalsFor": 4,
+            "goalsAgainst": 0,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1323336,
+            "date": "2025-10-13T18:45:00+00:00",
+            "venue": "away",
+            "xGFor": 1,
+            "xGAgainst": 1,
+            "goalsFor": 1,
+            "goalsAgainst": 1,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1323351,
+            "date": "2025-11-15T14:00:00+00:00",
+            "venue": "home",
+            "xGFor": 1,
+            "xGAgainst": 1,
+            "goalsFor": 1,
+            "goalsAgainst": 1,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          }
+        ]
+      },
+      "leagueProfile": {
+        "avgHomeXG": 1.45,
+        "avgAwayXG": 1.18,
+        "avgHomeCorners": 5.15,
+        "avgAwayCorners": 4.25,
+        "avgHomeCards": 2.15,
+        "avgAwayCards": 2.35,
+        "dixonColesRho": -0.08,
+        "h2hWeight": 0.05
+      },
+      "context": {
+        "importance": "normal",
+        "derby": false,
+        "tieStage": "none",
+        "lineupsStatus": "unconfirmed"
+      },
+      "players": [
+        {
+          "name": "O. Reabciuk",
+          "team": "Moldova",
+          "status": "available",
+          "history": [
+            {
+              "date": "2024-01-01",
+              "shotsTotal": 0,
+              "shotsOnTarget": 0
+            },
+            {
+              "date": "2024-01-02",
+              "shotsTotal": 0,
+              "shotsOnTarget": 0
+            },
+            {
+              "date": "2024-01-03",
+              "shotsTotal": 0,
+              "shotsOnTarget": 0
+            },
+            {
+              "date": "2024-01-04",
+              "shotsTotal": 0,
+              "shotsOnTarget": 0
+            },
+            {
+              "date": "2024-01-05",
+              "shotsTotal": 0,
+              "shotsOnTarget": 0
+            },
+            {
+              "date": "2024-01-06",
+              "shotsTotal": 0,
+              "shotsOnTarget": 0
+            },
+            {
+              "date": "2024-01-07",
+              "shotsTotal": 0,
+              "shotsOnTarget": 0
+            }
+          ]
+        },
+        {
+          "name": "S. Muzhikov",
+          "team": "Kazakhstan",
+          "status": "available",
+          "history": [
+            {
+              "date": "2024-01-01",
+              "shotsTotal": 1,
+              "shotsOnTarget": 0
+            },
+            {
+              "date": "2024-01-02",
+              "shotsTotal": 1,
+              "shotsOnTarget": 0
+            },
+            {
+              "date": "2024-01-03",
+              "shotsTotal": 1,
+              "shotsOnTarget": 0
+            }
+          ]
+        }
+      ],
+      "odds": [],
+      "result": {
+        "homeGoals": 2,
+        "awayGoals": 1
+      }
+    },
+    {
+      "id": "apif-1528965",
+      "fixtureId": 1528965,
+      "dateGroup": "2026-11-13",
+      "kickoff": "2026-11-13T19:45:00+00:00",
+      "hour": "19:45",
+      "status": "FIN",
+      "league": "UEFA Nations League",
+      "leagueId": 5,
+      "leagueSeason": 2026,
+      "leagueLogo": "https://media.api-sports.io/football/leagues/5.png",
+      "source": "API-Football",
+      "updatedAt": "2026-11-14T16:59:53.352Z",
+      "enrichedAt": 1794675621438,
+      "local": {
+        "name": "Serbia",
+        "id": "14",
+        "logo": "https://media.api-sports.io/football/teams/14.png",
+        "history": [
+          {
+            "fixtureId": 1145514,
+            "date": "2024-06-16T19:00:00+00:00",
+            "venue": "home",
+            "xGFor": 0,
+            "xGAgainst": 1,
+            "goalsFor": 0,
+            "goalsAgainst": 1,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1145523,
+            "date": "2024-06-20T13:00:00+00:00",
+            "venue": "away",
+            "xGFor": 1,
+            "xGAgainst": 1,
+            "goalsFor": 1,
+            "goalsAgainst": 1,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1145532,
+            "date": "2024-06-25T19:00:00+00:00",
+            "venue": "away",
+            "xGFor": 0,
+            "xGAgainst": 0,
+            "goalsFor": 0,
+            "goalsAgainst": 0,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1155264,
+            "date": "2024-03-21T17:00:00+00:00",
+            "venue": "away",
+            "xGFor": 0,
+            "xGAgainst": 4,
+            "goalsFor": 0,
+            "goalsAgainst": 4,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1155273,
+            "date": "2024-03-25T17:00:00+00:00",
+            "venue": "away",
+            "xGFor": 1,
+            "xGAgainst": 0,
+            "goalsFor": 1,
+            "goalsAgainst": 0,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1172942,
+            "date": "2024-09-05T18:45:00+00:00",
+            "venue": "home",
+            "xGFor": 0,
+            "xGAgainst": 0,
+            "goalsFor": 0,
+            "goalsAgainst": 0,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1172947,
+            "date": "2024-09-08T16:00:00+00:00",
+            "venue": "away",
+            "xGFor": 0,
+            "xGAgainst": 2,
+            "goalsFor": 0,
+            "goalsAgainst": 2,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1172961,
+            "date": "2024-10-12T18:45:00+00:00",
+            "venue": "home",
+            "xGFor": 2,
+            "xGAgainst": 0,
+            "goalsFor": 2,
+            "goalsAgainst": 0,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1172969,
+            "date": "2024-10-15T18:45:00+00:00",
+            "venue": "away",
+            "xGFor": 0,
+            "xGAgainst": 3,
+            "goalsFor": 0,
+            "goalsAgainst": 3,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1172976,
+            "date": "2024-11-15T19:45:00+00:00",
+            "venue": "away",
+            "xGFor": 1,
+            "xGAgainst": 1,
+            "goalsFor": 1,
+            "goalsAgainst": 1,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1172983,
+            "date": "2024-11-18T19:45:00+00:00",
+            "venue": "home",
+            "xGFor": 0,
+            "xGAgainst": 0,
+            "goalsFor": 0,
+            "goalsAgainst": 0,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1173868,
+            "date": "2024-06-04T18:45:00+00:00",
+            "venue": "away",
+            "xGFor": 1,
+            "xGAgainst": 2,
+            "goalsFor": 1,
+            "goalsAgainst": 2,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1174683,
+            "date": "2024-06-08T16:00:00+00:00",
+            "venue": "away",
+            "xGFor": 3,
+            "xGAgainst": 0,
+            "goalsFor": 3,
+            "goalsAgainst": 0,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1316557,
+            "date": "2025-03-20T19:45:00+00:00",
+            "venue": "away",
+            "xGFor": 1,
+            "xGAgainst": 1,
+            "goalsFor": 1,
+            "goalsAgainst": 1,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1316558,
+            "date": "2025-03-23T17:00:00+00:00",
+            "venue": "home",
+            "xGFor": 2,
+            "xGAgainst": 0,
+            "goalsFor": 2,
+            "goalsAgainst": 0,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1323269,
+            "date": "2025-06-07T18:45:00+00:00",
+            "venue": "away",
+            "xGFor": 0,
+            "xGAgainst": 0,
+            "goalsFor": 0,
+            "goalsAgainst": 0,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1323278,
+            "date": "2025-06-10T18:45:00+00:00",
+            "venue": "home",
+            "xGFor": 3,
+            "xGAgainst": 0,
+            "goalsFor": 3,
+            "goalsAgainst": 0,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1323290,
+            "date": "2025-09-06T13:00:00+00:00",
+            "venue": "away",
+            "xGFor": 1,
+            "xGAgainst": 0,
+            "goalsFor": 1,
+            "goalsAgainst": 0,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1323310,
+            "date": "2025-09-09T18:45:00+00:00",
+            "venue": "home",
+            "xGFor": 0,
+            "xGAgainst": 5,
+            "goalsFor": 0,
+            "goalsAgainst": 5,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1323326,
+            "date": "2025-10-11T18:45:00+00:00",
+            "venue": "home",
+            "xGFor": 0,
+            "xGAgainst": 1,
+            "goalsFor": 0,
+            "goalsAgainst": 1,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1323341,
+            "date": "2025-10-14T18:45:00+00:00",
+            "venue": "away",
+            "xGFor": 3,
+            "xGAgainst": 1,
+            "goalsFor": 3,
+            "goalsAgainst": 1,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1323347,
+            "date": "2025-11-13T19:45:00+00:00",
+            "venue": "away",
+            "xGFor": 0,
+            "xGAgainst": 2,
+            "goalsFor": 0,
+            "goalsAgainst": 2,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1323362,
+            "date": "2025-11-16T17:00:00+00:00",
+            "venue": "home",
+            "xGFor": 2,
+            "xGAgainst": 1,
+            "goalsFor": 2,
+            "goalsAgainst": 1,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          }
+        ]
+      },
+      "visita": {
+        "name": "Germany",
+        "id": "25",
+        "logo": "https://media.api-sports.io/football/teams/25.png",
+        "history": [
+          {
+            "fixtureId": 1145509,
+            "date": "2024-06-14T19:00:00+00:00",
+            "venue": "home",
+            "xGFor": 5,
+            "xGAgainst": 1,
+            "goalsFor": 5,
+            "goalsAgainst": 1,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1145519,
+            "date": "2024-06-19T16:00:00+00:00",
+            "venue": "home",
+            "xGFor": 2,
+            "xGAgainst": 0,
+            "goalsFor": 2,
+            "goalsAgainst": 0,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1145527,
+            "date": "2024-06-23T19:00:00+00:00",
+            "venue": "away",
+            "xGFor": 1,
+            "xGAgainst": 1,
+            "goalsFor": 1,
+            "goalsAgainst": 1,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1155272,
+            "date": "2024-03-23T20:00:00+00:00",
+            "venue": "away",
+            "xGFor": 2,
+            "xGAgainst": 0,
+            "goalsFor": 2,
+            "goalsAgainst": 0,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1155277,
+            "date": "2024-03-26T19:45:00+00:00",
+            "venue": "home",
+            "xGFor": 2,
+            "xGAgainst": 1,
+            "goalsFor": 2,
+            "goalsAgainst": 1,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1172945,
+            "date": "2024-09-07T18:45:00+00:00",
+            "venue": "home",
+            "xGFor": 5,
+            "xGAgainst": 0,
+            "goalsFor": 5,
+            "goalsAgainst": 0,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1172954,
+            "date": "2024-09-10T18:45:00+00:00",
+            "venue": "away",
+            "xGFor": 2,
+            "xGAgainst": 2,
+            "goalsFor": 2,
+            "goalsAgainst": 2,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1172957,
+            "date": "2024-10-11T18:45:00+00:00",
+            "venue": "away",
+            "xGFor": 2,
+            "xGAgainst": 1,
+            "goalsFor": 2,
+            "goalsAgainst": 1,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1172966,
+            "date": "2024-10-14T18:45:00+00:00",
+            "venue": "home",
+            "xGFor": 1,
+            "xGAgainst": 0,
+            "goalsFor": 1,
+            "goalsAgainst": 0,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1172977,
+            "date": "2024-11-16T19:45:00+00:00",
+            "venue": "home",
+            "xGFor": 7,
+            "xGAgainst": 0,
+            "goalsFor": 7,
+            "goalsAgainst": 0,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1172986,
+            "date": "2024-11-19T19:45:00+00:00",
+            "venue": "away",
+            "xGFor": 1,
+            "xGAgainst": 1,
+            "goalsFor": 1,
+            "goalsAgainst": 1,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1186282,
+            "date": "2024-06-03T18:45:00+00:00",
+            "venue": "home",
+            "xGFor": 0,
+            "xGAgainst": 0,
+            "goalsFor": 0,
+            "goalsAgainst": 0,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1186283,
+            "date": "2024-06-07T18:45:00+00:00",
+            "venue": "home",
+            "xGFor": 2,
+            "xGAgainst": 1,
+            "goalsFor": 2,
+            "goalsAgainst": 1,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1214156,
+            "date": "2024-06-29T19:00:00+00:00",
+            "venue": "home",
+            "xGFor": 2,
+            "xGAgainst": 0,
+            "goalsFor": 2,
+            "goalsAgainst": 0,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1219688,
+            "date": "2024-07-05T16:00:00+00:00",
+            "venue": "away",
+            "xGFor": 1,
+            "xGAgainst": 2,
+            "goalsFor": 1,
+            "goalsAgainst": 2,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1316551,
+            "date": "2025-03-20T19:45:00+00:00",
+            "venue": "away",
+            "xGFor": 2,
+            "xGAgainst": 1,
+            "goalsFor": 2,
+            "goalsAgainst": 1,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1316552,
+            "date": "2025-03-23T19:45:00+00:00",
+            "venue": "home",
+            "xGFor": 3,
+            "xGAgainst": 3,
+            "goalsFor": 3,
+            "goalsAgainst": 3,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1366136,
+            "date": "2025-06-04T19:10:00+00:00",
+            "venue": "home",
+            "xGFor": 1,
+            "xGAgainst": 2,
+            "goalsFor": 1,
+            "goalsAgainst": 2,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1366279,
+            "date": "2025-09-04T18:45:00+00:00",
+            "venue": "away",
+            "xGFor": 0,
+            "xGAgainst": 2,
+            "goalsFor": 0,
+            "goalsAgainst": 2,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1366288,
+            "date": "2025-09-07T18:45:00+00:00",
+            "venue": "home",
+            "xGFor": 3,
+            "xGAgainst": 1,
+            "goalsFor": 3,
+            "goalsAgainst": 1,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1366298,
+            "date": "2025-10-10T18:45:00+00:00",
+            "venue": "home",
+            "xGFor": 4,
+            "xGAgainst": 0,
+            "goalsFor": 4,
+            "goalsAgainst": 0,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1366306,
+            "date": "2025-10-13T18:45:00+00:00",
+            "venue": "away",
+            "xGFor": 1,
+            "xGAgainst": 0,
+            "goalsFor": 1,
+            "goalsAgainst": 0,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1366314,
+            "date": "2025-11-14T19:45:00+00:00",
+            "venue": "away",
+            "xGFor": 2,
+            "xGAgainst": 0,
+            "goalsFor": 2,
+            "goalsAgainst": 0,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1366322,
+            "date": "2025-11-17T19:45:00+00:00",
+            "venue": "home",
+            "xGFor": 6,
+            "xGAgainst": 0,
+            "goalsFor": 6,
+            "goalsAgainst": 0,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1377653,
+            "date": "2025-06-08T13:00:00+00:00",
+            "venue": "home",
+            "xGFor": 0,
+            "xGAgainst": 2,
+            "goalsFor": 0,
+            "goalsAgainst": 2,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          }
+        ]
+      },
+      "leagueProfile": {
+        "avgHomeXG": 1.45,
+        "avgAwayXG": 1.18,
+        "avgHomeCorners": 5.15,
+        "avgAwayCorners": 4.25,
+        "avgHomeCards": 2.15,
+        "avgAwayCards": 2.35,
+        "dixonColesRho": -0.08,
+        "h2hWeight": 0.05
+      },
+      "context": {
+        "importance": "normal",
+        "derby": false,
+        "tieStage": "none",
+        "lineupsStatus": "unconfirmed"
+      },
+      "players": [
+        {
+          "name": "L. Jović",
+          "team": "Serbia",
+          "status": "available",
+          "history": [
+            {
+              "date": "2024-01-01",
+              "shotsTotal": 2,
+              "shotsOnTarget": 1
+            },
+            {
+              "date": "2024-01-02",
+              "shotsTotal": 2,
+              "shotsOnTarget": 1
+            },
+            {
+              "date": "2024-01-03",
+              "shotsTotal": 2,
+              "shotsOnTarget": 1
+            },
+            {
+              "date": "2024-01-04",
+              "shotsTotal": 2,
+              "shotsOnTarget": 1
+            },
+            {
+              "date": "2024-01-05",
+              "shotsTotal": 2,
+              "shotsOnTarget": 1
+            },
+            {
+              "date": "2024-01-06",
+              "shotsTotal": 2,
+              "shotsOnTarget": 1
+            }
+          ]
+        },
+        {
+          "name": "A. Živković",
+          "team": "Serbia",
+          "status": "available",
+          "history": [
+            {
+              "date": "2024-01-01",
+              "shotsTotal": 1,
+              "shotsOnTarget": 0
+            },
+            {
+              "date": "2024-01-02",
+              "shotsTotal": 1,
+              "shotsOnTarget": 0
+            },
+            {
+              "date": "2024-01-03",
+              "shotsTotal": 1,
+              "shotsOnTarget": 0
+            },
+            {
+              "date": "2024-01-04",
+              "shotsTotal": 1,
+              "shotsOnTarget": 0
+            },
+            {
+              "date": "2024-01-05",
+              "shotsTotal": 1,
+              "shotsOnTarget": 0
+            },
+            {
+              "date": "2024-01-06",
+              "shotsTotal": 1,
+              "shotsOnTarget": 0
+            },
+            {
+              "date": "2024-01-07",
+              "shotsTotal": 1,
+              "shotsOnTarget": 0
+            }
+          ]
+        },
+        {
+          "name": "N. Gudelj",
+          "team": "Serbia",
+          "status": "available",
+          "history": [
+            {
+              "date": "2024-01-01",
+              "shotsTotal": 1,
+              "shotsOnTarget": 0
+            },
+            {
+              "date": "2024-01-02",
+              "shotsTotal": 1,
+              "shotsOnTarget": 0
+            },
+            {
+              "date": "2024-01-03",
+              "shotsTotal": 1,
+              "shotsOnTarget": 0
+            },
+            {
+              "date": "2024-01-04",
+              "shotsTotal": 1,
+              "shotsOnTarget": 0
+            },
+            {
+              "date": "2024-01-05",
+              "shotsTotal": 1,
+              "shotsOnTarget": 0
+            },
+            {
+              "date": "2024-01-06",
+              "shotsTotal": 1,
+              "shotsOnTarget": 0
+            }
+          ]
+        },
+        {
+          "name": "L. Sané",
+          "team": "Germany",
+          "status": "available",
+          "history": [
+            {
+              "date": "2024-01-01",
+              "shotsTotal": 1,
+              "shotsOnTarget": 1
+            },
+            {
+              "date": "2024-01-02",
+              "shotsTotal": 1,
+              "shotsOnTarget": 1
+            },
+            {
+              "date": "2024-01-03",
+              "shotsTotal": 1,
+              "shotsOnTarget": 1
+            },
+            {
+              "date": "2024-01-04",
+              "shotsTotal": 1,
+              "shotsOnTarget": 1
+            },
+            {
+              "date": "2024-01-05",
+              "shotsTotal": 1,
+              "shotsOnTarget": 1
+            }
+          ]
+        },
+        {
+          "name": "K. Havertz",
+          "team": "Germany",
+          "status": "available",
+          "history": [
+            {
+              "date": "2024-01-01",
+              "shotsTotal": 1,
+              "shotsOnTarget": 0
+            },
+            {
+              "date": "2024-01-02",
+              "shotsTotal": 1,
+              "shotsOnTarget": 0
+            },
+            {
+              "date": "2024-01-03",
+              "shotsTotal": 1,
+              "shotsOnTarget": 0
+            },
+            {
+              "date": "2024-01-04",
+              "shotsTotal": 1,
+              "shotsOnTarget": 0
+            }
+          ]
+        },
+        {
+          "name": "İ. Gündoğan",
+          "team": "Germany",
+          "status": "available",
+          "history": [
+            {
+              "date": "2024-01-01",
+              "shotsTotal": 1,
+              "shotsOnTarget": 0
+            },
+            {
+              "date": "2024-01-02",
+              "shotsTotal": 1,
+              "shotsOnTarget": 0
+            },
+            {
+              "date": "2024-01-03",
+              "shotsTotal": 1,
+              "shotsOnTarget": 0
+            },
+            {
+              "date": "2024-01-04",
+              "shotsTotal": 1,
+              "shotsOnTarget": 0
+            },
+            {
+              "date": "2024-01-05",
+              "shotsTotal": 1,
+              "shotsOnTarget": 0
+            }
+          ]
+        },
+        {
+          "name": "J. Kimmich",
+          "team": "Germany",
+          "status": "available",
+          "history": [
+            {
+              "date": "2024-01-01",
+              "shotsTotal": 1,
+              "shotsOnTarget": 0
+            },
+            {
+              "date": "2024-01-02",
+              "shotsTotal": 1,
+              "shotsOnTarget": 0
+            },
+            {
+              "date": "2024-01-03",
+              "shotsTotal": 1,
+              "shotsOnTarget": 0
+            },
+            {
+              "date": "2024-01-04",
+              "shotsTotal": 1,
+              "shotsOnTarget": 0
+            }
+          ]
+        },
+        {
+          "name": "T. Müller",
+          "team": "Germany",
+          "status": "available",
+          "history": [
+            {
+              "date": "2024-01-01",
+              "shotsTotal": 1,
+              "shotsOnTarget": 0
+            },
+            {
+              "date": "2024-01-02",
+              "shotsTotal": 1,
+              "shotsOnTarget": 0
+            },
+            {
+              "date": "2024-01-03",
+              "shotsTotal": 1,
+              "shotsOnTarget": 0
+            }
+          ]
+        }
+      ],
+      "odds": [],
+      "result": {
+        "homeGoals": 1,
+        "awayGoals": 3
+      }
+    },
+    {
+      "id": "apif-1528966",
+      "fixtureId": 1528966,
+      "dateGroup": "2026-11-13",
+      "kickoff": "2026-11-13T19:45:00+00:00",
+      "hour": "19:45",
+      "status": "FIN",
+      "league": "UEFA Nations League",
+      "leagueId": 5,
+      "leagueSeason": 2026,
+      "leagueLogo": "https://media.api-sports.io/football/leagues/5.png",
+      "source": "API-Football",
+      "updatedAt": "2026-11-14T17:00:21.438Z",
+      "enrichedAt": 1794675648911,
+      "local": {
+        "name": "Netherlands",
+        "id": "1118",
+        "logo": "https://media.api-sports.io/football/teams/1118.png",
+        "history": [
+          {
+            "fixtureId": 1145524,
+            "date": "2024-06-21T19:00:00+00:00",
+            "venue": "home",
+            "xGFor": 0,
+            "xGAgainst": 0,
+            "goalsFor": 0,
+            "goalsAgainst": 0,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1145533,
+            "date": "2024-06-25T16:00:00+00:00",
+            "venue": "home",
+            "xGFor": 2,
+            "xGAgainst": 3,
+            "goalsFor": 2,
+            "goalsAgainst": 3,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1155267,
+            "date": "2024-03-22T19:45:00+00:00",
+            "venue": "home",
+            "xGFor": 4,
+            "xGAgainst": 0,
+            "goalsFor": 4,
+            "goalsAgainst": 0,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1155277,
+            "date": "2024-03-26T19:45:00+00:00",
+            "venue": "away",
+            "xGFor": 1,
+            "xGAgainst": 2,
+            "goalsFor": 1,
+            "goalsAgainst": 2,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1172946,
+            "date": "2024-09-07T18:45:00+00:00",
+            "venue": "home",
+            "xGFor": 5,
+            "xGAgainst": 2,
+            "goalsFor": 5,
+            "goalsAgainst": 2,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1172954,
+            "date": "2024-09-10T18:45:00+00:00",
+            "venue": "home",
+            "xGFor": 2,
+            "xGAgainst": 2,
+            "goalsFor": 2,
+            "goalsAgainst": 2,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1172958,
+            "date": "2024-10-11T18:45:00+00:00",
+            "venue": "away",
+            "xGFor": 1,
+            "xGAgainst": 1,
+            "goalsFor": 1,
+            "goalsAgainst": 1,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1172966,
+            "date": "2024-10-14T18:45:00+00:00",
+            "venue": "away",
+            "xGFor": 0,
+            "xGAgainst": 1,
+            "goalsFor": 0,
+            "goalsAgainst": 1,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1172978,
+            "date": "2024-11-16T19:45:00+00:00",
+            "venue": "home",
+            "xGFor": 4,
+            "xGAgainst": 0,
+            "goalsFor": 4,
+            "goalsAgainst": 0,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1172985,
+            "date": "2024-11-19T19:45:00+00:00",
+            "venue": "away",
+            "xGFor": 1,
+            "xGAgainst": 1,
+            "goalsFor": 1,
+            "goalsAgainst": 1,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1182784,
+            "date": "2024-06-06T18:45:00+00:00",
+            "venue": "home",
+            "xGFor": 4,
+            "xGAgainst": 0,
+            "goalsFor": 4,
+            "goalsAgainst": 0,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1182785,
+            "date": "2024-06-10T18:45:00+00:00",
+            "venue": "home",
+            "xGFor": 4,
+            "xGAgainst": 0,
+            "goalsFor": 4,
+            "goalsAgainst": 0,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1189846,
+            "date": "2024-06-16T13:00:00+00:00",
+            "venue": "away",
+            "xGFor": 2,
+            "xGAgainst": 1,
+            "goalsFor": 2,
+            "goalsAgainst": 1,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1215077,
+            "date": "2024-07-02T16:00:00+00:00",
+            "venue": "away",
+            "xGFor": 3,
+            "xGAgainst": 0,
+            "goalsFor": 3,
+            "goalsAgainst": 0,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1220308,
+            "date": "2024-07-06T19:00:00+00:00",
+            "venue": "home",
+            "xGFor": 2,
+            "xGAgainst": 1,
+            "goalsFor": 2,
+            "goalsAgainst": 1,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1227539,
+            "date": "2024-07-10T19:00:00+00:00",
+            "venue": "home",
+            "xGFor": 1,
+            "xGAgainst": 2,
+            "goalsFor": 1,
+            "goalsAgainst": 2,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1316545,
+            "date": "2025-03-20T19:45:00+00:00",
+            "venue": "home",
+            "xGFor": 2,
+            "xGAgainst": 2,
+            "goalsFor": 2,
+            "goalsAgainst": 2,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1316546,
+            "date": "2025-03-23T19:45:00+00:00",
+            "venue": "away",
+            "xGFor": 3,
+            "xGAgainst": 3,
+            "goalsFor": 3,
+            "goalsAgainst": 3,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1366275,
+            "date": "2025-06-07T18:45:00+00:00",
+            "venue": "away",
+            "xGFor": 2,
+            "xGAgainst": 0,
+            "goalsFor": 2,
+            "goalsAgainst": 0,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1366278,
+            "date": "2025-06-10T18:45:00+00:00",
+            "venue": "home",
+            "xGFor": 8,
+            "xGAgainst": 0,
+            "goalsFor": 8,
+            "goalsAgainst": 0,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1366281,
+            "date": "2025-09-04T18:45:00+00:00",
+            "venue": "home",
+            "xGFor": 1,
+            "xGAgainst": 1,
+            "goalsFor": 1,
+            "goalsAgainst": 1,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1366287,
+            "date": "2025-09-07T16:00:00+00:00",
+            "venue": "away",
+            "xGFor": 3,
+            "xGAgainst": 2,
+            "goalsFor": 3,
+            "goalsAgainst": 2,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1366296,
+            "date": "2025-10-09T18:45:00+00:00",
+            "venue": "away",
+            "xGFor": 4,
+            "xGAgainst": 0,
+            "goalsFor": 4,
+            "goalsAgainst": 0,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1366303,
+            "date": "2025-10-12T16:00:00+00:00",
+            "venue": "home",
+            "xGFor": 4,
+            "xGAgainst": 0,
+            "goalsFor": 4,
+            "goalsAgainst": 0,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1366315,
+            "date": "2025-11-14T19:45:00+00:00",
+            "venue": "away",
+            "xGFor": 1,
+            "xGAgainst": 1,
+            "goalsFor": 1,
+            "goalsAgainst": 1,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1366323,
+            "date": "2025-11-17T19:45:00+00:00",
+            "venue": "home",
+            "xGFor": 4,
+            "xGAgainst": 0,
+            "goalsFor": 4,
+            "goalsAgainst": 0,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          }
+        ]
+      },
+      "visita": {
+        "name": "Greece",
+        "id": "1117",
+        "logo": "https://media.api-sports.io/football/teams/1117.png",
+        "history": [
+          {
+            "fixtureId": 1172898,
+            "date": "2024-09-07T18:45:00+00:00",
+            "venue": "home",
+            "xGFor": 3,
+            "xGAgainst": 0,
+            "goalsFor": 3,
+            "goalsAgainst": 0,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1172906,
+            "date": "2024-09-10T18:45:00+00:00",
+            "venue": "away",
+            "xGFor": 2,
+            "xGAgainst": 0,
+            "goalsFor": 2,
+            "goalsAgainst": 0,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1172907,
+            "date": "2024-10-10T18:45:00+00:00",
+            "venue": "away",
+            "xGFor": 2,
+            "xGAgainst": 1,
+            "goalsFor": 2,
+            "goalsAgainst": 1,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1172917,
+            "date": "2024-10-13T18:45:00+00:00",
+            "venue": "home",
+            "xGFor": 2,
+            "xGAgainst": 0,
+            "goalsFor": 2,
+            "goalsAgainst": 0,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1172924,
+            "date": "2024-11-14T19:45:00+00:00",
+            "venue": "home",
+            "xGFor": 0,
+            "xGAgainst": 3,
+            "goalsFor": 0,
+            "goalsAgainst": 3,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1172932,
+            "date": "2024-11-17T17:00:00+00:00",
+            "venue": "away",
+            "xGFor": 2,
+            "xGAgainst": 0,
+            "goalsFor": 2,
+            "goalsAgainst": 0,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1186283,
+            "date": "2024-06-07T18:45:00+00:00",
+            "venue": "away",
+            "xGFor": 1,
+            "xGAgainst": 2,
+            "goalsFor": 1,
+            "goalsAgainst": 2,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1200436,
+            "date": "2024-06-11T16:00:00+00:00",
+            "venue": "away",
+            "xGFor": 2,
+            "xGAgainst": 0,
+            "goalsFor": 2,
+            "goalsAgainst": 0,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1316559,
+            "date": "2025-03-20T19:45:00+00:00",
+            "venue": "home",
+            "xGFor": 0,
+            "xGAgainst": 1,
+            "goalsFor": 0,
+            "goalsAgainst": 1,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1316560,
+            "date": "2025-03-23T17:00:00+00:00",
+            "venue": "away",
+            "xGFor": 3,
+            "xGAgainst": 0,
+            "goalsFor": 3,
+            "goalsAgainst": 0,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1323286,
+            "date": "2025-09-05T18:45:00+00:00",
+            "venue": "home",
+            "xGFor": 5,
+            "xGAgainst": 1,
+            "goalsFor": 5,
+            "goalsAgainst": 1,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1323311,
+            "date": "2025-10-09T18:45:00+00:00",
+            "venue": "away",
+            "xGFor": 1,
+            "xGAgainst": 3,
+            "goalsFor": 1,
+            "goalsAgainst": 3,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1323357,
+            "date": "2025-11-15T19:45:00+00:00",
+            "venue": "home",
+            "xGFor": 3,
+            "xGAgainst": 2,
+            "goalsFor": 3,
+            "goalsAgainst": 2,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1323369,
+            "date": "2025-11-18T19:45:00+00:00",
+            "venue": "away",
+            "xGFor": 0,
+            "xGAgainst": 0,
+            "goalsFor": 0,
+            "goalsAgainst": 0,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1366290,
+            "date": "2025-09-08T18:45:00+00:00",
+            "venue": "home",
+            "xGFor": 0,
+            "xGAgainst": 3,
+            "goalsFor": 0,
+            "goalsAgainst": 3,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1366304,
+            "date": "2025-10-12T18:45:00+00:00",
+            "venue": "away",
+            "xGFor": 1,
+            "xGAgainst": 3,
+            "goalsFor": 1,
+            "goalsAgainst": 3,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          }
+        ]
+      },
+      "leagueProfile": {
+        "avgHomeXG": 1.45,
+        "avgAwayXG": 1.18,
+        "avgHomeCorners": 5.15,
+        "avgAwayCorners": 4.25,
+        "avgHomeCards": 2.15,
+        "avgAwayCards": 2.35,
+        "dixonColesRho": -0.08,
+        "h2hWeight": 0.05
+      },
+      "context": {
+        "importance": "normal",
+        "derby": false,
+        "tieStage": "none",
+        "lineupsStatus": "unconfirmed"
+      },
+      "players": [
+        {
+          "name": "M. Depay",
+          "team": "Netherlands",
+          "status": "available",
+          "history": [
+            {
+              "date": "2024-01-01",
+              "shotsTotal": 2,
+              "shotsOnTarget": 1
+            },
+            {
+              "date": "2024-01-02",
+              "shotsTotal": 2,
+              "shotsOnTarget": 1
+            },
+            {
+              "date": "2024-01-03",
+              "shotsTotal": 2,
+              "shotsOnTarget": 1
+            },
+            {
+              "date": "2024-01-04",
+              "shotsTotal": 2,
+              "shotsOnTarget": 1
+            }
+          ]
+        },
+        {
+          "name": "N. Aké",
+          "team": "Netherlands",
+          "status": "available",
+          "history": [
+            {
+              "date": "2024-01-01",
+              "shotsTotal": 1,
+              "shotsOnTarget": 0
+            },
+            {
+              "date": "2024-01-02",
+              "shotsTotal": 1,
+              "shotsOnTarget": 0
+            },
+            {
+              "date": "2024-01-03",
+              "shotsTotal": 1,
+              "shotsOnTarget": 0
+            }
+          ]
+        },
+        {
+          "name": "J. Kluivert",
+          "team": "Netherlands",
+          "status": "available",
+          "history": [
+            {
+              "date": "2024-01-01",
+              "shotsTotal": 1,
+              "shotsOnTarget": 0
+            },
+            {
+              "date": "2024-01-02",
+              "shotsTotal": 1,
+              "shotsOnTarget": 0
+            },
+            {
+              "date": "2024-01-03",
+              "shotsTotal": 1,
+              "shotsOnTarget": 0
+            }
+          ]
+        },
+        {
+          "name": "W. Weghorst",
+          "team": "Netherlands",
+          "status": "available",
+          "history": [
+            {
+              "date": "2024-01-01",
+              "shotsTotal": 1,
+              "shotsOnTarget": 0
+            },
+            {
+              "date": "2024-01-02",
+              "shotsTotal": 1,
+              "shotsOnTarget": 0
+            },
+            {
+              "date": "2024-01-03",
+              "shotsTotal": 1,
+              "shotsOnTarget": 0
+            },
+            {
+              "date": "2024-01-04",
+              "shotsTotal": 1,
+              "shotsOnTarget": 0
+            },
+            {
+              "date": "2024-01-05",
+              "shotsTotal": 1,
+              "shotsOnTarget": 0
+            },
+            {
+              "date": "2024-01-06",
+              "shotsTotal": 1,
+              "shotsOnTarget": 0
+            }
+          ]
+        },
+        {
+          "name": "C. Gakpo",
+          "team": "Netherlands",
+          "status": "available",
+          "history": [
+            {
+              "date": "2024-01-01",
+              "shotsTotal": 1,
+              "shotsOnTarget": 0
+            },
+            {
+              "date": "2024-01-02",
+              "shotsTotal": 1,
+              "shotsOnTarget": 0
+            },
+            {
+              "date": "2024-01-03",
+              "shotsTotal": 1,
+              "shotsOnTarget": 0
+            }
+          ]
+        }
+      ],
+      "odds": [],
+      "result": {
+        "homeGoals": 7,
+        "awayGoals": 0
+      }
+    },
+    {
+      "id": "apif-1528967",
+      "fixtureId": 1528967,
+      "dateGroup": "2026-11-13",
+      "kickoff": "2026-11-13T19:45:00+00:00",
+      "hour": "19:45",
+      "status": "FIN",
+      "league": "UEFA Nations League",
+      "leagueId": 5,
+      "leagueSeason": 2026,
+      "leagueLogo": "https://media.api-sports.io/football/leagues/5.png",
+      "source": "API-Football",
+      "updatedAt": "2026-11-14T17:00:48.911Z",
+      "enrichedAt": 1794675676141,
+      "local": {
+        "name": "Slovakia",
+        "id": "773",
+        "logo": "https://media.api-sports.io/football/teams/773.png",
+        "history": [
+          {
+            "fixtureId": 1145516,
+            "date": "2024-06-17T16:00:00+00:00",
+            "venue": "away",
+            "xGFor": 1,
+            "xGAgainst": 0,
+            "goalsFor": 1,
+            "goalsAgainst": 0,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1145534,
+            "date": "2024-06-26T16:00:00+00:00",
+            "venue": "home",
+            "xGFor": 1,
+            "xGAgainst": 1,
+            "goalsFor": 1,
+            "goalsAgainst": 1,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1155269,
+            "date": "2024-03-23T17:00:00+00:00",
+            "venue": "home",
+            "xGFor": 0,
+            "xGAgainst": 2,
+            "goalsFor": 0,
+            "goalsAgainst": 2,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1156212,
+            "date": "2024-03-26T18:00:00+00:00",
+            "venue": "away",
+            "xGFor": 1,
+            "xGAgainst": 1,
+            "goalsFor": 1,
+            "goalsAgainst": 1,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1172988,
+            "date": "2024-09-05T18:45:00+00:00",
+            "venue": "away",
+            "xGFor": 1,
+            "xGAgainst": 0,
+            "goalsFor": 1,
+            "goalsAgainst": 0,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1172995,
+            "date": "2024-09-08T16:00:00+00:00",
+            "venue": "home",
+            "xGFor": 2,
+            "xGAgainst": 0,
+            "goalsFor": 2,
+            "goalsAgainst": 0,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1173004,
+            "date": "2024-10-11T18:45:00+00:00",
+            "venue": "home",
+            "xGFor": 2,
+            "xGAgainst": 2,
+            "goalsFor": 2,
+            "goalsAgainst": 2,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1173010,
+            "date": "2024-10-14T16:00:00+00:00",
+            "venue": "away",
+            "xGFor": 3,
+            "xGAgainst": 1,
+            "goalsFor": 3,
+            "goalsAgainst": 1,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1173021,
+            "date": "2024-11-16T19:45:00+00:00",
+            "venue": "away",
+            "xGFor": 1,
+            "xGAgainst": 2,
+            "goalsFor": 1,
+            "goalsAgainst": 2,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1173027,
+            "date": "2024-11-19T19:45:00+00:00",
+            "venue": "home",
+            "xGFor": 1,
+            "xGAgainst": 0,
+            "goalsFor": 1,
+            "goalsAgainst": 0,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1175755,
+            "date": "2024-06-05T16:00:00+00:00",
+            "venue": "home",
+            "xGFor": 4,
+            "xGAgainst": 0,
+            "goalsFor": 4,
+            "goalsAgainst": 0,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1175756,
+            "date": "2024-06-09T18:45:00+00:00",
+            "venue": "home",
+            "xGFor": 4,
+            "xGAgainst": 0,
+            "goalsFor": 4,
+            "goalsAgainst": 0,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1189849,
+            "date": "2024-06-21T13:00:00+00:00",
+            "venue": "home",
+            "xGFor": 1,
+            "xGAgainst": 2,
+            "goalsFor": 1,
+            "goalsAgainst": 2,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1215074,
+            "date": "2024-06-30T16:00:00+00:00",
+            "venue": "away",
+            "xGFor": 1,
+            "xGAgainst": 2,
+            "goalsFor": 1,
+            "goalsAgainst": 2,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1316567,
+            "date": "2025-03-20T19:45:00+00:00",
+            "venue": "home",
+            "xGFor": 0,
+            "xGAgainst": 0,
+            "goalsFor": 0,
+            "goalsAgainst": 0,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1316568,
+            "date": "2025-03-23T17:00:00+00:00",
+            "venue": "away",
+            "xGFor": 0,
+            "xGAgainst": 1,
+            "goalsFor": 0,
+            "goalsAgainst": 1,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1323297,
+            "date": "2025-09-07T18:45:00+00:00",
+            "venue": "away",
+            "xGFor": 1,
+            "xGAgainst": 0,
+            "goalsFor": 1,
+            "goalsAgainst": 0,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1323317,
+            "date": "2025-10-10T18:45:00+00:00",
+            "venue": "away",
+            "xGFor": 0,
+            "xGAgainst": 2,
+            "goalsFor": 0,
+            "goalsAgainst": 2,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1323332,
+            "date": "2025-10-13T18:45:00+00:00",
+            "venue": "home",
+            "xGFor": 2,
+            "xGAgainst": 0,
+            "goalsFor": 2,
+            "goalsAgainst": 0,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1323349,
+            "date": "2025-11-14T19:45:00+00:00",
+            "venue": "home",
+            "xGFor": 1,
+            "xGAgainst": 0,
+            "goalsFor": 1,
+            "goalsAgainst": 0,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1366279,
+            "date": "2025-09-04T18:45:00+00:00",
+            "venue": "home",
+            "xGFor": 2,
+            "xGAgainst": 0,
+            "goalsFor": 2,
+            "goalsAgainst": 0,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1366322,
+            "date": "2025-11-17T19:45:00+00:00",
+            "venue": "away",
+            "xGFor": 0,
+            "xGAgainst": 6,
+            "goalsFor": 0,
+            "goalsAgainst": 6,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1487927,
+            "date": "2026-03-26T19:45:00+00:00",
+            "venue": "home",
+            "xGFor": 3,
+            "xGAgainst": 4,
+            "goalsFor": 3,
+            "goalsAgainst": 4,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          }
+        ]
+      },
+      "visita": {
+        "name": "Faroe Islands",
+        "id": "1098",
+        "logo": "https://media.api-sports.io/football/teams/1098.png",
+        "history": [
+          {
+            "fixtureId": 1155275,
+            "date": "2024-03-26T19:15:00+00:00",
+            "venue": "away",
+            "xGFor": 0,
+            "xGAgainst": 2,
+            "goalsFor": 0,
+            "goalsAgainst": 2,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1169387,
+            "date": "2024-03-22T17:00:00+00:00",
+            "venue": "away",
+            "xGFor": 4,
+            "xGAgainst": 0,
+            "goalsFor": 4,
+            "goalsAgainst": 0,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1172992,
+            "date": "2024-09-07T13:00:00+00:00",
+            "venue": "home",
+            "xGFor": 1,
+            "xGAgainst": 1,
+            "goalsFor": 1,
+            "goalsAgainst": 1,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1172999,
+            "date": "2024-09-10T16:00:00+00:00",
+            "venue": "away",
+            "xGFor": 0,
+            "xGAgainst": 1,
+            "goalsFor": 0,
+            "goalsAgainst": 1,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1173001,
+            "date": "2024-10-10T18:45:00+00:00",
+            "venue": "home",
+            "xGFor": 2,
+            "xGAgainst": 2,
+            "goalsFor": 2,
+            "goalsAgainst": 2,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1173009,
+            "date": "2024-10-13T18:45:00+00:00",
+            "venue": "home",
+            "xGFor": 1,
+            "xGAgainst": 1,
+            "goalsFor": 1,
+            "goalsAgainst": 1,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1173015,
+            "date": "2024-11-14T17:00:00+00:00",
+            "venue": "away",
+            "xGFor": 1,
+            "xGAgainst": 0,
+            "goalsFor": 1,
+            "goalsAgainst": 0,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1173023,
+            "date": "2024-11-17T14:00:00+00:00",
+            "venue": "away",
+            "xGFor": 0,
+            "xGAgainst": 1,
+            "goalsFor": 0,
+            "goalsAgainst": 1,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1174074,
+            "date": "2024-06-08T16:00:00+00:00",
+            "venue": "away",
+            "xGFor": 1,
+            "xGAgainst": 4,
+            "goalsFor": 1,
+            "goalsAgainst": 4,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1205307,
+            "date": "2024-06-11T16:00:00+00:00",
+            "venue": "away",
+            "xGFor": 0,
+            "xGAgainst": 1,
+            "goalsFor": 0,
+            "goalsAgainst": 1,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1323248,
+            "date": "2025-03-22T19:45:00+00:00",
+            "venue": "away",
+            "xGFor": 1,
+            "xGAgainst": 2,
+            "goalsFor": 1,
+            "goalsAgainst": 2,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1323260,
+            "date": "2025-03-25T19:45:00+00:00",
+            "venue": "away",
+            "xGFor": 0,
+            "xGAgainst": 1,
+            "goalsFor": 0,
+            "goalsAgainst": 1,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1323273,
+            "date": "2025-06-09T18:45:00+00:00",
+            "venue": "home",
+            "xGFor": 2,
+            "xGAgainst": 1,
+            "goalsFor": 2,
+            "goalsAgainst": 1,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1323304,
+            "date": "2025-09-08T18:45:00+00:00",
+            "venue": "away",
+            "xGFor": 1,
+            "xGAgainst": 0,
+            "goalsFor": 1,
+            "goalsAgainst": 0,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1323315,
+            "date": "2025-10-09T18:45:00+00:00",
+            "venue": "home",
+            "xGFor": 4,
+            "xGAgainst": 0,
+            "goalsFor": 4,
+            "goalsAgainst": 0,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1323329,
+            "date": "2025-10-12T16:00:00+00:00",
+            "venue": "home",
+            "xGFor": 2,
+            "xGAgainst": 1,
+            "goalsFor": 2,
+            "goalsAgainst": 1,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1366285,
+            "date": "2025-09-05T18:45:00+00:00",
+            "venue": "home",
+            "xGFor": 0,
+            "xGAgainst": 1,
+            "goalsFor": 0,
+            "goalsAgainst": 1,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1366316,
+            "date": "2025-11-14T19:45:00+00:00",
+            "venue": "away",
+            "xGFor": 1,
+            "xGAgainst": 3,
+            "goalsFor": 1,
+            "goalsAgainst": 3,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          }
+        ]
+      },
+      "leagueProfile": {
+        "avgHomeXG": 1.45,
+        "avgAwayXG": 1.18,
+        "avgHomeCorners": 5.15,
+        "avgAwayCorners": 4.25,
+        "avgHomeCards": 2.15,
+        "avgAwayCards": 2.35,
+        "dixonColesRho": -0.08,
+        "h2hWeight": 0.05
+      },
+      "context": {
+        "importance": "normal",
+        "derby": false,
+        "tieStage": "none",
+        "lineupsStatus": "unconfirmed"
+      },
+      "players": [
+        {
+          "name": "J. Kucka",
+          "team": "Slovakia",
+          "status": "available",
+          "history": [
+            {
+              "date": "2024-01-01",
+              "shotsTotal": 2,
+              "shotsOnTarget": 1
+            },
+            {
+              "date": "2024-01-02",
+              "shotsTotal": 2,
+              "shotsOnTarget": 1
+            },
+            {
+              "date": "2024-01-03",
+              "shotsTotal": 2,
+              "shotsOnTarget": 1
+            },
+            {
+              "date": "2024-01-04",
+              "shotsTotal": 2,
+              "shotsOnTarget": 1
+            }
+          ]
+        },
+        {
+          "name": "P. Pekarík",
+          "team": "Slovakia",
+          "status": "available",
+          "history": [
+            {
+              "date": "2024-01-01",
+              "shotsTotal": 1,
+              "shotsOnTarget": 0
+            },
+            {
+              "date": "2024-01-02",
+              "shotsTotal": 1,
+              "shotsOnTarget": 0
+            },
+            {
+              "date": "2024-01-03",
+              "shotsTotal": 1,
+              "shotsOnTarget": 0
+            },
+            {
+              "date": "2024-01-04",
+              "shotsTotal": 1,
+              "shotsOnTarget": 0
+            }
+          ]
+        },
+        {
+          "name": "M. Škriniar",
+          "team": "Slovakia",
+          "status": "available",
+          "history": [
+            {
+              "date": "2024-01-01",
+              "shotsTotal": 0,
+              "shotsOnTarget": 0
+            },
+            {
+              "date": "2024-01-02",
+              "shotsTotal": 0,
+              "shotsOnTarget": 0
+            },
+            {
+              "date": "2024-01-03",
+              "shotsTotal": 0,
+              "shotsOnTarget": 0
+            },
+            {
+              "date": "2024-01-04",
+              "shotsTotal": 0,
+              "shotsOnTarget": 0
+            }
+          ]
+        },
+        {
+          "name": "O. Duda",
+          "team": "Slovakia",
+          "status": "available",
+          "history": [
+            {
+              "date": "2024-01-01",
+              "shotsTotal": 0,
+              "shotsOnTarget": 0
+            },
+            {
+              "date": "2024-01-02",
+              "shotsTotal": 0,
+              "shotsOnTarget": 0
+            },
+            {
+              "date": "2024-01-03",
+              "shotsTotal": 0,
+              "shotsOnTarget": 0
+            }
+          ]
+        },
+        {
+          "name": "D. Hancko",
+          "team": "Slovakia",
+          "status": "available",
+          "history": [
+            {
+              "date": "2024-01-01",
+              "shotsTotal": 0,
+              "shotsOnTarget": 0
+            },
+            {
+              "date": "2024-01-02",
+              "shotsTotal": 0,
+              "shotsOnTarget": 0
+            },
+            {
+              "date": "2024-01-03",
+              "shotsTotal": 0,
+              "shotsOnTarget": 0
+            }
+          ]
+        },
+        {
+          "name": "B. Hendriksson",
+          "team": "Faroe Islands",
+          "status": "available",
+          "history": [
+            {
+              "date": "2024-01-01",
+              "shotsTotal": 1,
+              "shotsOnTarget": 0
+            },
+            {
+              "date": "2024-01-02",
+              "shotsTotal": 1,
+              "shotsOnTarget": 0
+            },
+            {
+              "date": "2024-01-03",
+              "shotsTotal": 1,
+              "shotsOnTarget": 0
+            }
+          ]
+        }
+      ],
+      "odds": [],
+      "result": {
+        "homeGoals": 2,
+        "awayGoals": 2
+      }
+    },
+    {
+      "id": "apif-1528969",
+      "fixtureId": 1528969,
+      "dateGroup": "2026-11-13",
+      "kickoff": "2026-11-13T19:45:00+00:00",
+      "hour": "19:45",
+      "status": "FIN",
+      "league": "UEFA Nations League",
+      "leagueId": 5,
+      "leagueSeason": 2026,
+      "leagueLogo": "https://media.api-sports.io/football/leagues/5.png",
+      "source": "API-Football",
+      "updatedAt": "2026-11-14T17:01:16.141Z",
+      "enrichedAt": 1794675703336,
+      "local": {
+        "name": "Bulgaria",
+        "id": "1103",
+        "logo": "https://media.api-sports.io/football/teams/1103.png",
+        "history": [
+          {
+            "fixtureId": 1157594,
+            "date": "2024-06-04T18:30:00+00:00",
+            "venue": "away",
+            "xGFor": 0,
+            "xGAgainst": 0,
+            "goalsFor": 0,
+            "goalsAgainst": 0,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1165954,
+            "date": "2024-03-22T13:00:00+00:00",
+            "venue": "away",
+            "xGFor": 1,
+            "xGAgainst": 0,
+            "goalsFor": 1,
+            "goalsAgainst": 0,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1165955,
+            "date": "2024-03-25T16:00:00+00:00",
+            "venue": "away",
+            "xGFor": 1,
+            "xGAgainst": 1,
+            "goalsFor": 1,
+            "goalsAgainst": 1,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1170221,
+            "date": "2024-06-08T13:00:00+00:00",
+            "venue": "away",
+            "xGFor": 1,
+            "xGAgainst": 1,
+            "goalsFor": 1,
+            "goalsAgainst": 1,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1172989,
+            "date": "2024-09-05T18:45:00+00:00",
+            "venue": "away",
+            "xGFor": 0,
+            "xGAgainst": 0,
+            "goalsFor": 0,
+            "goalsAgainst": 0,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1172996,
+            "date": "2024-09-08T16:00:00+00:00",
+            "venue": "home",
+            "xGFor": 1,
+            "xGAgainst": 0,
+            "goalsFor": 1,
+            "goalsAgainst": 0,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1173005,
+            "date": "2024-10-12T16:00:00+00:00",
+            "venue": "home",
+            "xGFor": 0,
+            "xGAgainst": 0,
+            "goalsFor": 0,
+            "goalsAgainst": 0,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1173014,
+            "date": "2024-10-15T18:45:00+00:00",
+            "venue": "away",
+            "xGFor": 0,
+            "xGAgainst": 5,
+            "goalsFor": 0,
+            "goalsAgainst": 5,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1173018,
+            "date": "2024-11-15T19:45:00+00:00",
+            "venue": "away",
+            "xGFor": 1,
+            "xGAgainst": 0,
+            "goalsFor": 1,
+            "goalsAgainst": 0,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1173025,
+            "date": "2024-11-18T19:45:00+00:00",
+            "venue": "home",
+            "xGFor": 1,
+            "xGAgainst": 1,
+            "goalsFor": 1,
+            "goalsAgainst": 1,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1316563,
+            "date": "2025-03-20T19:45:00+00:00",
+            "venue": "home",
+            "xGFor": 1,
+            "xGAgainst": 2,
+            "goalsFor": 1,
+            "goalsAgainst": 2,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1316564,
+            "date": "2025-03-23T19:45:00+00:00",
+            "venue": "away",
+            "xGFor": 1,
+            "xGAgainst": 2,
+            "goalsFor": 1,
+            "goalsAgainst": 2,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1323295,
+            "date": "2025-09-07T13:00:00+00:00",
+            "venue": "away",
+            "xGFor": 0,
+            "xGAgainst": 3,
+            "goalsFor": 0,
+            "goalsAgainst": 3,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1323325,
+            "date": "2025-10-11T18:45:00+00:00",
+            "venue": "home",
+            "xGFor": 1,
+            "xGAgainst": 6,
+            "goalsFor": 1,
+            "goalsAgainst": 6,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1323352,
+            "date": "2025-11-15T17:00:00+00:00",
+            "venue": "away",
+            "xGFor": 0,
+            "xGAgainst": 2,
+            "goalsFor": 0,
+            "goalsAgainst": 2,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1323370,
+            "date": "2025-11-18T19:45:00+00:00",
+            "venue": "home",
+            "xGFor": 2,
+            "xGAgainst": 1,
+            "goalsFor": 2,
+            "goalsAgainst": 1,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1366280,
+            "date": "2025-09-04T18:45:00+00:00",
+            "venue": "home",
+            "xGFor": 0,
+            "xGAgainst": 3,
+            "goalsFor": 0,
+            "goalsAgainst": 3,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1366308,
+            "date": "2025-10-14T18:45:00+00:00",
+            "venue": "away",
+            "xGFor": 0,
+            "xGAgainst": 4,
+            "goalsFor": 0,
+            "goalsAgainst": 4,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          }
+        ]
+      },
+      "visita": {
+        "name": "Iceland",
+        "id": "18",
+        "logo": "https://media.api-sports.io/football/teams/18.png",
+        "history": [
+          {
+            "fixtureId": 1155260,
+            "date": "2024-01-13T23:30:00+00:00",
+            "venue": "away",
+            "xGFor": 1,
+            "xGAgainst": 0,
+            "goalsFor": 1,
+            "goalsAgainst": 0,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1155261,
+            "date": "2024-01-18T01:00:00+00:00",
+            "venue": "away",
+            "xGFor": 2,
+            "xGAgainst": 0,
+            "goalsFor": 2,
+            "goalsAgainst": 0,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1171721,
+            "date": "2024-06-07T18:45:00+00:00",
+            "venue": "away",
+            "xGFor": 1,
+            "xGAgainst": 0,
+            "goalsFor": 1,
+            "goalsAgainst": 0,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1172893,
+            "date": "2024-09-06T18:45:00+00:00",
+            "venue": "home",
+            "xGFor": 2,
+            "xGAgainst": 0,
+            "goalsFor": 2,
+            "goalsAgainst": 0,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1172902,
+            "date": "2024-09-09T18:45:00+00:00",
+            "venue": "away",
+            "xGFor": 1,
+            "xGAgainst": 3,
+            "goalsFor": 1,
+            "goalsAgainst": 3,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1172913,
+            "date": "2024-10-11T18:45:00+00:00",
+            "venue": "home",
+            "xGFor": 2,
+            "xGAgainst": 2,
+            "goalsFor": 2,
+            "goalsAgainst": 2,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1172921,
+            "date": "2024-10-14T18:45:00+00:00",
+            "venue": "home",
+            "xGFor": 2,
+            "xGAgainst": 4,
+            "goalsFor": 2,
+            "goalsAgainst": 4,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1172928,
+            "date": "2024-11-16T17:00:00+00:00",
+            "venue": "away",
+            "xGFor": 2,
+            "xGAgainst": 0,
+            "goalsFor": 2,
+            "goalsAgainst": 0,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1172938,
+            "date": "2024-11-19T19:45:00+00:00",
+            "venue": "away",
+            "xGFor": 1,
+            "xGAgainst": 4,
+            "goalsFor": 1,
+            "goalsAgainst": 4,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1182785,
+            "date": "2024-06-10T18:45:00+00:00",
+            "venue": "away",
+            "xGFor": 0,
+            "xGAgainst": 4,
+            "goalsFor": 0,
+            "goalsAgainst": 4,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1316561,
+            "date": "2025-03-20T19:45:00+00:00",
+            "venue": "away",
+            "xGFor": 1,
+            "xGAgainst": 2,
+            "goalsFor": 1,
+            "goalsAgainst": 2,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1316562,
+            "date": "2025-03-23T17:00:00+00:00",
+            "venue": "home",
+            "xGFor": 1,
+            "xGAgainst": 3,
+            "goalsFor": 1,
+            "goalsAgainst": 3,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1323287,
+            "date": "2025-09-05T18:45:00+00:00",
+            "venue": "home",
+            "xGFor": 5,
+            "xGAgainst": 0,
+            "goalsFor": 5,
+            "goalsAgainst": 0,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1323320,
+            "date": "2025-10-10T18:45:00+00:00",
+            "venue": "home",
+            "xGFor": 3,
+            "xGAgainst": 5,
+            "goalsFor": 3,
+            "goalsAgainst": 5,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1323343,
+            "date": "2025-11-13T17:00:00+00:00",
+            "venue": "away",
+            "xGFor": 2,
+            "xGAgainst": 0,
+            "goalsFor": 2,
+            "goalsAgainst": 0,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1323360,
+            "date": "2025-11-16T17:00:00+00:00",
+            "venue": "away",
+            "xGFor": 0,
+            "xGAgainst": 2,
+            "goalsFor": 0,
+            "goalsAgainst": 2,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1366293,
+            "date": "2025-09-09T18:45:00+00:00",
+            "venue": "away",
+            "xGFor": 1,
+            "xGAgainst": 2,
+            "goalsFor": 1,
+            "goalsAgainst": 2,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1366307,
+            "date": "2025-10-13T18:45:00+00:00",
+            "venue": "home",
+            "xGFor": 2,
+            "xGAgainst": 2,
+            "goalsFor": 2,
+            "goalsAgainst": 2,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          }
+        ]
+      },
+      "leagueProfile": {
+        "avgHomeXG": 1.45,
+        "avgAwayXG": 1.18,
+        "avgHomeCorners": 5.15,
+        "avgAwayCorners": 4.25,
+        "avgHomeCards": 2.15,
+        "avgAwayCards": 2.35,
+        "dixonColesRho": -0.08,
+        "h2hWeight": 0.05
+      },
+      "context": {
+        "importance": "normal",
+        "derby": false,
+        "tieStage": "none",
+        "lineupsStatus": "unconfirmed"
+      },
+      "players": [
+        {
+          "name": "G. Milanov",
+          "team": "Bulgaria",
+          "status": "available",
+          "history": [
+            {
+              "date": "2024-01-01",
+              "shotsTotal": 1,
+              "shotsOnTarget": 0
+            },
+            {
+              "date": "2024-01-02",
+              "shotsTotal": 1,
+              "shotsOnTarget": 0
+            },
+            {
+              "date": "2024-01-03",
+              "shotsTotal": 1,
+              "shotsOnTarget": 0
+            }
+          ]
+        },
+        {
+          "name": "S. Ingason",
+          "team": "Iceland",
+          "status": "available",
+          "history": [
+            {
+              "date": "2024-01-01",
+              "shotsTotal": 0,
+              "shotsOnTarget": 0
+            },
+            {
+              "date": "2024-01-02",
+              "shotsTotal": 0,
+              "shotsOnTarget": 0
+            },
+            {
+              "date": "2024-01-03",
+              "shotsTotal": 0,
+              "shotsOnTarget": 0
+            }
+          ]
+        },
+        {
+          "name": "S. Þórðarson",
+          "team": "Iceland",
+          "status": "available",
+          "history": [
+            {
+              "date": "2024-01-01",
+              "shotsTotal": 0,
+              "shotsOnTarget": 0
+            },
+            {
+              "date": "2024-01-02",
+              "shotsTotal": 0,
+              "shotsOnTarget": 0
+            },
+            {
+              "date": "2024-01-03",
+              "shotsTotal": 0,
+              "shotsOnTarget": 0
+            }
+          ]
+        }
+      ],
+      "odds": [],
+      "result": {
+        "homeGoals": 0,
+        "awayGoals": 5
+      }
+    },
+    {
+      "id": "apif-1528970",
+      "fixtureId": 1528970,
+      "dateGroup": "2026-11-13",
+      "kickoff": "2026-11-13T19:45:00+00:00",
+      "hour": "19:45",
+      "status": "FIN",
+      "league": "UEFA Nations League",
+      "leagueId": 5,
+      "leagueSeason": 2026,
+      "leagueLogo": "https://media.api-sports.io/football/leagues/5.png",
+      "source": "API-Football",
+      "updatedAt": "2026-11-14T17:01:43.336Z",
+      "enrichedAt": 1794675730513,
+      "local": {
+        "name": "Liechtenstein",
+        "id": "1107",
+        "logo": "https://media.api-sports.io/football/teams/1107.png",
+        "history": [
+          {
+            "fixtureId": 1157595,
+            "date": "2024-06-07T18:00:00+00:00",
+            "venue": "away",
+            "xGFor": 0,
+            "xGAgainst": 0,
+            "goalsFor": 0,
+            "goalsAgainst": 0,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1169387,
+            "date": "2024-03-22T17:00:00+00:00",
+            "venue": "home",
+            "xGFor": 0,
+            "xGAgainst": 4,
+            "goalsFor": 0,
+            "goalsAgainst": 4,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1172561,
+            "date": "2024-03-26T17:00:00+00:00",
+            "venue": "away",
+            "xGFor": 1,
+            "xGAgainst": 1,
+            "goalsFor": 1,
+            "goalsAgainst": 1,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1172562,
+            "date": "2024-06-03T18:00:00+00:00",
+            "venue": "away",
+            "xGFor": 0,
+            "xGAgainst": 3,
+            "goalsFor": 0,
+            "goalsAgainst": 3,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1173029,
+            "date": "2024-09-05T18:45:00+00:00",
+            "venue": "away",
+            "xGFor": 0,
+            "xGAgainst": 1,
+            "goalsFor": 0,
+            "goalsAgainst": 1,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1173035,
+            "date": "2024-11-18T19:45:00+00:00",
+            "venue": "home",
+            "xGFor": 1,
+            "xGAgainst": 3,
+            "goalsFor": 1,
+            "goalsAgainst": 3,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1189861,
+            "date": "2024-09-08T16:00:00+00:00",
+            "venue": "away",
+            "xGFor": 2,
+            "xGAgainst": 2,
+            "goalsFor": 2,
+            "goalsAgainst": 2,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1189863,
+            "date": "2024-10-13T16:00:00+00:00",
+            "venue": "home",
+            "xGFor": 0,
+            "xGAgainst": 0,
+            "goalsFor": 0,
+            "goalsAgainst": 0,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1200437,
+            "date": "2024-10-10T17:30:00+00:00",
+            "venue": "home",
+            "xGFor": 1,
+            "xGAgainst": 0,
+            "goalsFor": 1,
+            "goalsAgainst": 0,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1200438,
+            "date": "2024-11-14T18:00:00+00:00",
+            "venue": "away",
+            "xGFor": 0,
+            "xGAgainst": 2,
+            "goalsFor": 0,
+            "goalsAgainst": 2,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1323243,
+            "date": "2025-03-22T14:00:00+00:00",
+            "venue": "home",
+            "xGFor": 0,
+            "xGAgainst": 3,
+            "goalsFor": 0,
+            "goalsAgainst": 3,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1323257,
+            "date": "2025-03-25T19:45:00+00:00",
+            "venue": "home",
+            "xGFor": 0,
+            "xGAgainst": 2,
+            "goalsFor": 0,
+            "goalsAgainst": 2,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1323263,
+            "date": "2025-06-06T18:45:00+00:00",
+            "venue": "away",
+            "xGFor": 0,
+            "xGAgainst": 3,
+            "goalsFor": 0,
+            "goalsAgainst": 3,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1323283,
+            "date": "2025-09-04T18:45:00+00:00",
+            "venue": "home",
+            "xGFor": 0,
+            "xGAgainst": 6,
+            "goalsFor": 0,
+            "goalsAgainst": 6,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1323296,
+            "date": "2025-09-07T16:00:00+00:00",
+            "venue": "away",
+            "xGFor": 0,
+            "xGAgainst": 5,
+            "goalsFor": 0,
+            "goalsAgainst": 5,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1323316,
+            "date": "2025-10-10T14:00:00+00:00",
+            "venue": "away",
+            "xGFor": 0,
+            "xGAgainst": 4,
+            "goalsFor": 0,
+            "goalsAgainst": 4,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1323354,
+            "date": "2025-11-15T17:00:00+00:00",
+            "venue": "home",
+            "xGFor": 0,
+            "xGAgainst": 1,
+            "goalsFor": 0,
+            "goalsAgainst": 1,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1323373,
+            "date": "2025-11-18T19:45:00+00:00",
+            "venue": "away",
+            "xGFor": 0,
+            "xGAgainst": 7,
+            "goalsFor": 0,
+            "goalsAgainst": 7,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          }
+        ]
+      },
+      "visita": {
+        "name": "Azerbaijan",
+        "id": "1096",
+        "logo": "https://media.api-sports.io/football/teams/1096.png",
+        "history": [
+          {
+            "fixtureId": 1165955,
+            "date": "2024-03-25T16:00:00+00:00",
+            "venue": "home",
+            "xGFor": 1,
+            "xGAgainst": 1,
+            "goalsFor": 1,
+            "goalsAgainst": 1,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1172987,
+            "date": "2024-09-05T16:00:00+00:00",
+            "venue": "home",
+            "xGFor": 1,
+            "xGAgainst": 3,
+            "goalsFor": 1,
+            "goalsAgainst": 3,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1172995,
+            "date": "2024-09-08T16:00:00+00:00",
+            "venue": "away",
+            "xGFor": 0,
+            "xGAgainst": 2,
+            "goalsFor": 0,
+            "goalsAgainst": 2,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1173003,
+            "date": "2024-10-11T16:00:00+00:00",
+            "venue": "away",
+            "xGFor": 1,
+            "xGAgainst": 3,
+            "goalsFor": 1,
+            "goalsAgainst": 3,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1173010,
+            "date": "2024-10-14T16:00:00+00:00",
+            "venue": "home",
+            "xGFor": 1,
+            "xGAgainst": 3,
+            "goalsFor": 1,
+            "goalsAgainst": 3,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1173020,
+            "date": "2024-11-16T14:00:00+00:00",
+            "venue": "home",
+            "xGFor": 0,
+            "xGAgainst": 0,
+            "goalsFor": 0,
+            "goalsAgainst": 0,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1173028,
+            "date": "2024-11-19T19:45:00+00:00",
+            "venue": "away",
+            "xGFor": 0,
+            "xGAgainst": 6,
+            "goalsFor": 0,
+            "goalsAgainst": 6,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1175757,
+            "date": "2024-03-22T16:00:00+00:00",
+            "venue": "home",
+            "xGFor": 1,
+            "xGAgainst": 0,
+            "goalsFor": 1,
+            "goalsAgainst": 0,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1182373,
+            "date": "2024-06-07T17:00:00+00:00",
+            "venue": "away",
+            "xGFor": 1,
+            "xGAgainst": 3,
+            "goalsFor": 1,
+            "goalsAgainst": 3,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1199026,
+            "date": "2024-06-11T14:00:00+00:00",
+            "venue": "home",
+            "xGFor": 3,
+            "xGAgainst": 2,
+            "goalsFor": 3,
+            "goalsAgainst": 2,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1323287,
+            "date": "2025-09-05T18:45:00+00:00",
+            "venue": "away",
+            "xGFor": 0,
+            "xGAgainst": 5,
+            "goalsFor": 0,
+            "goalsAgainst": 5,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1323305,
+            "date": "2025-09-09T16:00:00+00:00",
+            "venue": "home",
+            "xGFor": 1,
+            "xGAgainst": 1,
+            "goalsFor": 1,
+            "goalsAgainst": 1,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1323335,
+            "date": "2025-10-13T18:45:00+00:00",
+            "venue": "away",
+            "xGFor": 1,
+            "xGAgainst": 2,
+            "goalsFor": 1,
+            "goalsAgainst": 2,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1323343,
+            "date": "2025-11-13T17:00:00+00:00",
+            "venue": "home",
+            "xGFor": 0,
+            "xGAgainst": 2,
+            "goalsFor": 0,
+            "goalsAgainst": 2,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1366299,
+            "date": "2025-10-10T18:45:00+00:00",
+            "venue": "away",
+            "xGFor": 0,
+            "xGAgainst": 3,
+            "goalsFor": 0,
+            "goalsAgainst": 3,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1366320,
+            "date": "2025-11-16T17:00:00+00:00",
+            "venue": "home",
+            "xGFor": 1,
+            "xGAgainst": 3,
+            "goalsFor": 1,
+            "goalsAgainst": 3,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          }
+        ]
+      },
+      "leagueProfile": {
+        "avgHomeXG": 1.45,
+        "avgAwayXG": 1.18,
+        "avgHomeCorners": 5.15,
+        "avgAwayCorners": 4.25,
+        "avgHomeCards": 2.15,
+        "avgAwayCards": 2.35,
+        "dixonColesRho": -0.08,
+        "h2hWeight": 0.05
+      },
+      "context": {
+        "importance": "normal",
+        "derby": false,
+        "tieStage": "none",
+        "lineupsStatus": "unconfirmed"
+      },
+      "players": [
+        {
+          "name": "N. Hasler",
+          "team": "Liechtenstein",
+          "status": "available",
+          "history": [
+            {
+              "date": "2024-01-01",
+              "shotsTotal": 1,
+              "shotsOnTarget": 1
+            },
+            {
+              "date": "2024-01-02",
+              "shotsTotal": 1,
+              "shotsOnTarget": 1
+            },
+            {
+              "date": "2024-01-03",
+              "shotsTotal": 1,
+              "shotsOnTarget": 1
+            }
+          ]
+        },
+        {
+          "name": "A. Hüseynov",
+          "team": "Azerbaijan",
+          "status": "available",
+          "history": [
+            {
+              "date": "2024-01-01",
+              "shotsTotal": 0,
+              "shotsOnTarget": 0
+            },
+            {
+              "date": "2024-01-02",
+              "shotsTotal": 0,
+              "shotsOnTarget": 0
+            },
+            {
+              "date": "2024-01-03",
+              "shotsTotal": 0,
+              "shotsOnTarget": 0
+            },
+            {
+              "date": "2024-01-04",
+              "shotsTotal": 0,
+              "shotsOnTarget": 0
+            },
+            {
+              "date": "2024-01-05",
+              "shotsTotal": 0,
+              "shotsOnTarget": 0
+            },
+            {
+              "date": "2024-01-06",
+              "shotsTotal": 0,
+              "shotsOnTarget": 0
+            }
+          ]
+        },
+        {
+          "name": "R. Dadashov",
+          "team": "Azerbaijan",
+          "status": "available",
+          "history": [
+            {
+              "date": "2024-01-01",
+              "shotsTotal": 0,
+              "shotsOnTarget": 0
+            },
+            {
+              "date": "2024-01-02",
+              "shotsTotal": 0,
+              "shotsOnTarget": 0
+            },
+            {
+              "date": "2024-01-03",
+              "shotsTotal": 0,
+              "shotsOnTarget": 0
+            }
+          ]
+        }
+      ],
+      "odds": [],
+      "result": {
+        "homeGoals": 0,
+        "awayGoals": 1
+      }
+    },
+    {
+      "id": "apif-1545614",
+      "fixtureId": 1545614,
+      "dateGroup": "2026-11-13",
+      "kickoff": "2026-11-13T19:45:00+00:00",
+      "hour": "19:45",
+      "status": "FIN",
+      "league": "UEFA Nations League",
+      "leagueId": 5,
+      "leagueSeason": 2026,
+      "leagueLogo": "https://media.api-sports.io/football/leagues/5.png",
+      "source": "API-Football",
+      "updatedAt": "2026-11-14T17:02:10.513Z",
+      "enrichedAt": null,
+      "local": {
+        "name": "Luxembourg",
+        "id": "1102",
+        "logo": "https://media.api-sports.io/football/teams/1102.png",
+        "history": [
+          {
+            "fixtureId": 1168423,
+            "date": "2024-06-08T18:00:00+00:00",
+            "venue": "away",
+            "xGFor": 0,
+            "xGAgainst": 3,
+            "goalsFor": 0,
+            "goalsAgainst": 3,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1172990,
+            "date": "2024-09-05T18:45:00+00:00",
+            "venue": "away",
+            "xGFor": 0,
+            "xGAgainst": 2,
+            "goalsFor": 0,
+            "goalsAgainst": 2,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1172994,
+            "date": "2024-09-08T13:00:00+00:00",
+            "venue": "home",
+            "xGFor": 0,
+            "xGAgainst": 1,
+            "goalsFor": 0,
+            "goalsAgainst": 1,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1173005,
+            "date": "2024-10-12T16:00:00+00:00",
+            "venue": "away",
+            "xGFor": 0,
+            "xGAgainst": 0,
+            "goalsFor": 0,
+            "goalsAgainst": 0,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1173013,
+            "date": "2024-10-15T18:45:00+00:00",
+            "venue": "away",
+            "xGFor": 1,
+            "xGAgainst": 1,
+            "goalsFor": 1,
+            "goalsAgainst": 1,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1173018,
+            "date": "2024-11-15T19:45:00+00:00",
+            "venue": "home",
+            "xGFor": 0,
+            "xGAgainst": 1,
+            "goalsFor": 0,
+            "goalsAgainst": 1,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1173026,
+            "date": "2024-11-18T19:45:00+00:00",
+            "venue": "home",
+            "xGFor": 2,
+            "xGAgainst": 2,
+            "goalsFor": 2,
+            "goalsAgainst": 2,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1187512,
+            "date": "2024-03-26T19:45:00+00:00",
+            "venue": "home",
+            "xGFor": 2,
+            "xGAgainst": 1,
+            "goalsFor": 2,
+            "goalsAgainst": 1,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1196834,
+            "date": "2024-06-05T19:00:00+00:00",
+            "venue": "away",
+            "xGFor": 0,
+            "xGAgainst": 3,
+            "goalsFor": 0,
+            "goalsAgainst": 3,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1316571,
+            "date": "2026-03-26T17:00:00+00:00",
+            "venue": "away",
+            "xGFor": 2,
+            "xGAgainst": 0,
+            "goalsFor": 2,
+            "goalsAgainst": 0,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1316572,
+            "date": "2026-03-31T16:00:00+00:00",
+            "venue": "home",
+            "xGFor": 3,
+            "xGAgainst": 0,
+            "goalsFor": 3,
+            "goalsAgainst": 0,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1323281,
+            "date": "2025-09-04T18:45:00+00:00",
+            "venue": "home",
+            "xGFor": 1,
+            "xGAgainst": 3,
+            "goalsFor": 1,
+            "goalsAgainst": 3,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1323297,
+            "date": "2025-09-07T18:45:00+00:00",
+            "venue": "home",
+            "xGFor": 0,
+            "xGAgainst": 1,
+            "goalsFor": 0,
+            "goalsAgainst": 1,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1323332,
+            "date": "2025-10-13T18:45:00+00:00",
+            "venue": "away",
+            "xGFor": 0,
+            "xGAgainst": 2,
+            "goalsFor": 0,
+            "goalsAgainst": 2,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1323364,
+            "date": "2025-11-17T19:45:00+00:00",
+            "venue": "away",
+            "xGFor": 0,
+            "xGAgainst": 1,
+            "goalsFor": 0,
+            "goalsAgainst": 1,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1366298,
+            "date": "2025-10-10T18:45:00+00:00",
+            "venue": "away",
+            "xGFor": 0,
+            "xGAgainst": 4,
+            "goalsFor": 0,
+            "goalsAgainst": 4,
+            "cornersFor": 4.3,
+            "cornersAgainst": 5.2,
+            "cards": 2.2
+          },
+          {
+            "fixtureId": 1366314,
+            "date": "2025-11-14T19:45:00+00:00",
+            "venue": "home",
+            "xGFor": 0,
+            "xGAgainst": 2,
+            "goalsFor": 0,
+            "goalsAgainst": 2,
+            "cornersFor": 5.2,
+            "cornersAgainst": 4.3,
+            "cards": 2.2
+          }
+        ]
+      },
+      "visita": {
+        "name": "Estonia",
+        "id": "1101",
+        "logo": "https://media.api-sports.io/football/teams/1101.png",
+        "history": []
+      },
+      "leagueProfile": {
+        "avgHomeXG": 1.45,
+        "avgAwayXG": 1.18,
+        "avgHomeCorners": 5.15,
+        "avgAwayCorners": 4.25,
+        "avgHomeCards": 2.15,
+        "avgAwayCards": 2.35,
+        "dixonColesRho": -0.08,
+        "h2hWeight": 0.05
+      },
+      "context": {
+        "importance": "normal",
+        "derby": false,
+        "tieStage": "none",
+        "lineupsStatus": "unconfirmed"
+      },
+      "players": [
+        {
+          "name": "G. Rodrigues",
+          "team": "Luxembourg",
+          "status": "available",
+          "history": [
+            {
+              "date": "2024-01-01",
+              "shotsTotal": 2,
+              "shotsOnTarget": 1
+            },
+            {
+              "date": "2024-01-02",
+              "shotsTotal": 2,
+              "shotsOnTarget": 1
+            },
+            {
+              "date": "2024-01-03",
+              "shotsTotal": 2,
+              "shotsOnTarget": 1
+            },
+            {
+              "date": "2024-01-04",
+              "shotsTotal": 2,
+              "shotsOnTarget": 1
+            },
+            {
+              "date": "2024-01-05",
+              "shotsTotal": 2,
+              "shotsOnTarget": 1
+            }
+          ]
+        },
+        {
+          "name": "L. Barreiro",
+          "team": "Luxembourg",
+          "status": "available",
+          "history": [
+            {
+              "date": "2024-01-01",
+              "shotsTotal": 0,
+              "shotsOnTarget": 0
+            },
+            {
+              "date": "2024-01-02",
+              "shotsTotal": 0,
+              "shotsOnTarget": 0
+            },
+            {
+              "date": "2024-01-03",
+              "shotsTotal": 0,
+              "shotsOnTarget": 0
+            },
+            {
+              "date": "2024-01-04",
+              "shotsTotal": 0,
+              "shotsOnTarget": 0
+            },
+            {
+              "date": "2024-01-05",
+              "shotsTotal": 0,
+              "shotsOnTarget": 0
+            },
+            {
+              "date": "2024-01-06",
+              "shotsTotal": 0,
+              "shotsOnTarget": 0
+            }
+          ]
+        }
+      ],
+      "odds": [],
+      "result": {
+        "homeGoals": 0,
+        "awayGoals": 1
+      }
+    },
+    {
+      "id": "apif-1545615",
+      "fixtureId": 1545615,
+      "dateGroup": "2026-11-13",
+      "kickoff": "2026-11-13T19:45:00+00:00",
+      "hour": "19:45",
+      "status": "FIN",
+      "league": "UEFA Nations League",
+      "leagueId": 5,
+      "leagueSeason": 2026,
+      "leagueLogo": "https://media.api-sports.io/football/leagues/5.png",
+      "source": "API-Football",
+      "updatedAt": "2026-11-14T17:02:37.780Z",
+      "enrichedAt": null,
+      "local": {
+        "name": "Andorra",
+        "id": "1110",
+        "logo": "https://media.api-sports.io/football/teams/1110.png",
+        "history": []
+      },
+      "visita": {
+        "name": "Gibraltar",
+        "id": "1093",
+        "logo": "https://media.api-sports.io/football/teams/1093.png",
+        "history": []
+      },
+      "leagueProfile": {
+        "avgHomeXG": 1.45,
+        "avgAwayXG": 1.18,
+        "avgHomeCorners": 5.15,
+        "avgAwayCorners": 4.25,
+        "avgHomeCards": 2.15,
+        "avgAwayCards": 2.35,
+        "dixonColesRho": -0.08,
+        "h2hWeight": 0.05
+      },
+      "context": {
+        "importance": "normal",
+        "derby": false,
+        "tieStage": "none",
+        "lineupsStatus": "unconfirmed"
+      },
+      "players": [],
+      "odds": [],
+      "result": {
+        "homeGoals": 2,
+        "awayGoals": 0
+      }
+    },
+    {
+      "id": "apif-1545654",
+      "fixtureId": 1545654,
+      "dateGroup": "2026-11-13",
+      "kickoff": "2026-11-13T19:45:00+00:00",
+      "hour": "19:45",
+      "status": "FIN",
+      "league": "UEFA Nations League",
+      "leagueId": 5,
+      "leagueSeason": 2026,
+      "leagueLogo": "https://media.api-sports.io/football/leagues/5.png",
+      "source": "API-Football",
+      "updatedAt": "2026-11-14T17:03:05.847Z",
+      "enrichedAt": null,
+      "local": {
+        "name": "Slovenia",
+        "id": "1091",
+        "logo": "https://media.api-sports.io/football/teams/1091.png",
+        "history": []
+      },
+      "visita": {
+        "name": "Switzerland",
+        "id": "15",
+        "logo": "https://media.api-sports.io/football/teams/15.png",
+        "history": []
+      },
+      "leagueProfile": {
+        "avgHomeXG": 1.45,
+        "avgAwayXG": 1.18,
+        "avgHomeCorners": 5.15,
+        "avgAwayCorners": 4.25,
+        "avgHomeCards": 2.15,
+        "avgAwayCards": 2.35,
+        "dixonColesRho": -0.08,
+        "h2hWeight": 0.05
+      },
+      "context": {
+        "importance": "normal",
+        "derby": false,
+        "tieStage": "none",
+        "lineupsStatus": "unconfirmed"
+      },
+      "players": [],
+      "odds": [],
+      "result": {
+        "homeGoals": 0,
+        "awayGoals": 0
+      }
+    },
+    {
+      "id": "apif-1545659",
+      "fixtureId": 1545659,
+      "dateGroup": "2026-11-13",
+      "kickoff": "2026-11-13T19:45:00+00:00",
+      "hour": "19:45",
+      "status": "FIN",
+      "league": "UEFA Nations League",
+      "leagueId": 5,
+      "leagueSeason": 2026,
+      "leagueLogo": "https://media.api-sports.io/football/leagues/5.png",
+      "source": "API-Football",
+      "updatedAt": "2026-11-14T17:03:33.200Z",
+      "enrichedAt": null,
+      "local": {
+        "name": "Scotland",
+        "id": "1108",
+        "logo": "https://media.api-sports.io/football/teams/1108.png",
+        "history": []
+      },
+      "visita": {
+        "name": "FYR Macedonia",
+        "id": "1105",
+        "logo": "https://media.api-sports.io/football/teams/1105.png",
+        "history": []
+      },
+      "leagueProfile": {
+        "avgHomeXG": 1.45,
+        "avgAwayXG": 1.18,
+        "avgHomeCorners": 5.15,
+        "avgAwayCorners": 4.25,
+        "avgHomeCards": 2.15,
+        "avgAwayCards": 2.35,
+        "dixonColesRho": -0.08,
+        "h2hWeight": 0.05
+      },
+      "context": {
+        "importance": "normal",
+        "derby": false,
+        "tieStage": "none",
+        "lineupsStatus": "unconfirmed"
+      },
+      "players": [],
+      "odds": [],
+      "result": {
+        "homeGoals": 2,
+        "awayGoals": 1
+      }
+    },
+    {
+      "id": "apif-1644690",
+      "fixtureId": 1644690,
+      "dateGroup": "2026-11-13",
+      "kickoff": "2026-11-13T00:30:00+00:00",
+      "hour": "00:30",
+      "status": "FIN",
+      "league": "CONCACAF Nations League",
+      "leagueId": 536,
+      "leagueSeason": 2025,
+      "leagueLogo": "https://media.api-sports.io/football/leagues/536.png",
+      "source": "API-Football",
+      "updatedAt": "2026-11-14T17:04:00.357Z",
+      "enrichedAt": null,
+      "local": {
+        "name": "Curaçao",
+        "id": "5530",
+        "logo": "https://media.api-sports.io/football/teams/5530.png",
+        "history": []
+      },
+      "visita": {
+        "name": "Panama",
+        "id": "11",
+        "logo": "https://media.api-sports.io/football/teams/11.png",
+        "history": []
+      },
+      "leagueProfile": {
+        "avgHomeXG": 1.45,
+        "avgAwayXG": 1.18,
+        "avgHomeCorners": 5.15,
+        "avgAwayCorners": 4.25,
+        "avgHomeCards": 2.15,
+        "avgAwayCards": 2.35,
+        "dixonColesRho": -0.08,
+        "h2hWeight": 0.05
+      },
+      "context": {
+        "importance": "normal",
+        "derby": false,
+        "tieStage": "none",
+        "lineupsStatus": "unconfirmed"
+      },
+      "players": [],
+      "odds": [],
+      "result": {
+        "homeGoals": 0,
+        "awayGoals": 0
+      }
+    },
+    {
+      "id": "apif-1640006",
+      "fixtureId": 1640006,
+      "dateGroup": "2026-11-13",
+      "kickoff": "2026-11-13T19:00:00+00:00",
+      "hour": "19:00",
+      "status": "FIN",
+      "league": "CONCACAF Nations League",
+      "leagueId": 536,
+      "leagueSeason": 2025,
+      "leagueLogo": "https://media.api-sports.io/football/leagues/536.png",
+      "source": "API-Football",
+      "updatedAt": "2026-11-14T17:04:27.573Z",
+      "enrichedAt": null,
+      "local": {
+        "name": "Bermuda",
+        "id": "5158",
+        "logo": "https://media.api-sports.io/football/teams/5158.png",
+        "history": []
+      },
+      "visita": {
+        "name": "St. Lucia",
+        "id": "5540",
+        "logo": "https://media.api-sports.io/football/teams/5540.png",
+        "history": []
+      },
+      "leagueProfile": {
+        "avgHomeXG": 1.45,
+        "avgAwayXG": 1.18,
+        "avgHomeCorners": 5.15,
+        "avgAwayCorners": 4.25,
+        "avgHomeCards": 2.15,
+        "avgAwayCards": 2.35,
+        "dixonColesRho": -0.08,
+        "h2hWeight": 0.05
+      },
+      "context": {
+        "importance": "normal",
+        "derby": false,
+        "tieStage": "none",
+        "lineupsStatus": "unconfirmed"
+      },
+      "players": [],
+      "odds": [],
+      "result": {
+        "homeGoals": 1,
+        "awayGoals": 2
+      }
+    },
+    {
+      "id": "apif-1640015",
+      "fixtureId": 1640015,
+      "dateGroup": "2026-11-13",
+      "kickoff": "2026-11-13T19:00:00+00:00",
+      "hour": "19:00",
+      "status": "FIN",
+      "league": "CONCACAF Nations League",
+      "leagueId": 536,
+      "leagueSeason": 2025,
+      "leagueLogo": "https://media.api-sports.io/football/leagues/536.png",
+      "source": "API-Football",
+      "updatedAt": "2026-11-14T17:04:54.947Z",
+      "enrichedAt": null,
+      "local": {
+        "name": "Puerto Rico",
+        "id": "5539",
+        "logo": "https://media.api-sports.io/football/teams/5539.png",
+        "history": []
+      },
+      "visita": {
+        "name": "Dominica",
+        "id": "5531",
+        "logo": "https://media.api-sports.io/football/teams/5531.png",
+        "history": []
+      },
+      "leagueProfile": {
+        "avgHomeXG": 1.45,
+        "avgAwayXG": 1.18,
+        "avgHomeCorners": 5.15,
+        "avgAwayCorners": 4.25,
+        "avgHomeCards": 2.15,
+        "avgAwayCards": 2.35,
+        "dixonColesRho": -0.08,
+        "h2hWeight": 0.05
+      },
+      "context": {
+        "importance": "normal",
+        "derby": false,
+        "tieStage": "none",
+        "lineupsStatus": "unconfirmed"
+      },
+      "players": [],
+      "odds": [],
+      "result": {
+        "homeGoals": 4,
+        "awayGoals": 2
+      }
+    },
+    {
+      "id": "apif-1640012",
+      "fixtureId": 1640012,
+      "dateGroup": "2026-11-13",
+      "kickoff": "2026-11-13T20:00:00+00:00",
+      "hour": "20:00",
+      "status": "FIN",
+      "league": "CONCACAF Nations League",
+      "leagueId": 536,
+      "leagueSeason": 2025,
+      "leagueLogo": "https://media.api-sports.io/football/leagues/536.png",
+      "source": "API-Football",
+      "updatedAt": "2026-11-14T17:04:54.947Z",
+      "enrichedAt": null,
+      "local": {
+        "name": "Grenada",
+        "id": "5533",
+        "logo": "https://media.api-sports.io/football/teams/5533.png",
+        "history": []
+      },
+      "visita": {
+        "name": "St. Kitts and Nevis",
+        "id": "5536",
+        "logo": "https://media.api-sports.io/football/teams/5536.png",
+        "history": []
+      },
+      "leagueProfile": {
+        "avgHomeXG": 1.45,
+        "avgAwayXG": 1.18,
+        "avgHomeCorners": 5.15,
+        "avgAwayCorners": 4.25,
+        "avgHomeCards": 2.15,
+        "avgAwayCards": 2.35,
+        "dixonColesRho": -0.08,
+        "h2hWeight": 0.05
+      },
+      "context": {
+        "importance": "normal",
+        "derby": false,
+        "tieStage": "none",
+        "lineupsStatus": "unconfirmed"
+      },
+      "players": [],
+      "odds": [],
+      "result": {
+        "homeGoals": 3,
+        "awayGoals": 2
+      }
+    },
+    {
+      "id": "apif-1649031",
+      "fixtureId": 1649031,
+      "dateGroup": "2026-11-13",
+      "kickoff": "2026-11-13T23:00:00+00:00",
+      "hour": "23:00",
+      "status": "FIN",
+      "league": "CONCACAF Nations League",
+      "leagueId": 536,
+      "leagueSeason": 2025,
+      "leagueLogo": "https://media.api-sports.io/football/leagues/536.png",
+      "source": "API-Football",
+      "updatedAt": "2026-11-14T17:04:54.947Z",
+      "enrichedAt": null,
+      "local": {
+        "name": "Saint Martin",
+        "id": "10984",
+        "logo": "https://media.api-sports.io/football/teams/10984.png",
+        "history": []
+      },
+      "visita": {
+        "name": "El Salvador",
+        "id": "5159",
+        "logo": "https://media.api-sports.io/football/teams/5159.png",
+        "history": []
+      },
+      "leagueProfile": {
+        "avgHomeXG": 1.45,
+        "avgAwayXG": 1.18,
+        "avgHomeCorners": 5.15,
+        "avgAwayCorners": 4.25,
+        "avgHomeCards": 2.15,
+        "avgAwayCards": 2.35,
+        "dixonColesRho": -0.08,
+        "h2hWeight": 0.05
+      },
+      "context": {
+        "importance": "normal",
+        "derby": false,
+        "tieStage": "none",
+        "lineupsStatus": "unconfirmed"
+      },
+      "players": [],
+      "odds": [],
+      "result": {
+        "homeGoals": 0,
+        "awayGoals": 2
+      }
+    },
+    {
+      "id": "apif-1649012",
+      "fixtureId": 1649012,
+      "dateGroup": "2026-11-13",
+      "kickoff": "2026-11-13T11:00:00+00:00",
+      "hour": "11:00",
+      "status": "FIN",
+      "league": "Friendlies",
+      "leagueId": 10,
+      "leagueSeason": 2026,
+      "leagueLogo": "https://media.api-sports.io/football/leagues/10.png",
+      "source": "API-Football",
+      "updatedAt": "2026-11-14T17:04:54.947Z",
+      "enrichedAt": null,
+      "local": {
+        "name": "Czechia U18",
+        "id": "21465",
+        "logo": "https://media.api-sports.io/football/teams/21465.png",
+        "history": []
+      },
+      "visita": {
+        "name": "Poland U18",
+        "id": "21476",
+        "logo": "https://media.api-sports.io/football/teams/21476.png",
+        "history": []
+      },
+      "leagueProfile": {
+        "avgHomeXG": 1.45,
+        "avgAwayXG": 1.18,
+        "avgHomeCorners": 5.15,
+        "avgAwayCorners": 4.25,
+        "avgHomeCards": 2.15,
+        "avgAwayCards": 2.35,
+        "dixonColesRho": -0.08,
+        "h2hWeight": 0.05
+      },
+      "context": {
+        "importance": "normal",
+        "derby": false,
+        "tieStage": "none",
+        "lineupsStatus": "unconfirmed"
+      },
+      "players": [],
+      "odds": [],
+      "result": {
+        "homeGoals": 0,
+        "awayGoals": 3
+      }
+    },
+    {
+      "id": "apif-1640083",
+      "fixtureId": 1640083,
+      "dateGroup": "2026-11-13",
+      "kickoff": "2026-11-13T12:00:00+00:00",
+      "hour": "12:00",
+      "status": "FIN",
+      "league": "Friendlies",
+      "leagueId": 10,
+      "leagueSeason": 2026,
+      "leagueLogo": "https://media.api-sports.io/football/leagues/10.png",
+      "source": "API-Football",
+      "updatedAt": "2026-11-14T17:04:54.947Z",
+      "enrichedAt": null,
+      "local": {
+        "name": "Singapore",
+        "id": "1546",
+        "logo": "https://media.api-sports.io/football/teams/1546.png",
+        "history": []
+      },
+      "visita": {
+        "name": "Paraguay",
+        "id": "2380",
+        "logo": "https://media.api-sports.io/football/teams/2380.png",
+        "history": []
+      },
+      "leagueProfile": {
+        "avgHomeXG": 1.45,
+        "avgAwayXG": 1.18,
+        "avgHomeCorners": 5.15,
+        "avgAwayCorners": 4.25,
+        "avgHomeCards": 2.15,
+        "avgAwayCards": 2.35,
+        "dixonColesRho": -0.08,
+        "h2hWeight": 0.05
+      },
+      "context": {
+        "importance": "normal",
+        "derby": false,
+        "tieStage": "none",
+        "lineupsStatus": "unconfirmed"
+      },
+      "players": [],
+      "odds": [],
+      "result": {
+        "homeGoals": 1,
+        "awayGoals": 4
+      }
+    },
+    {
+      "id": "apif-1647636",
+      "fixtureId": 1647636,
+      "dateGroup": "2026-11-13",
+      "kickoff": "2026-11-13T14:15:00+00:00",
+      "hour": "14:15",
+      "status": "FIN",
+      "league": "Friendlies",
+      "leagueId": 10,
+      "leagueSeason": 2026,
+      "leagueLogo": "https://media.api-sports.io/football/leagues/10.png",
+      "source": "API-Football",
+      "updatedAt": "2026-11-14T17:04:54.947Z",
+      "enrichedAt": null,
+      "local": {
+        "name": "United Arab Emirates",
+        "id": "1563",
+        "logo": "https://media.api-sports.io/football/teams/1563.png",
+        "history": []
+      },
+      "visita": {
+        "name": "Honduras",
+        "id": "4672",
+        "logo": "https://media.api-sports.io/football/teams/4672.png",
+        "history": []
+      },
+      "leagueProfile": {
+        "avgHomeXG": 1.45,
+        "avgAwayXG": 1.18,
+        "avgHomeCorners": 5.15,
+        "avgAwayCorners": 4.25,
+        "avgHomeCards": 2.15,
+        "avgAwayCards": 2.35,
+        "dixonColesRho": -0.08,
+        "h2hWeight": 0.05
+      },
+      "context": {
+        "importance": "normal",
+        "derby": false,
+        "tieStage": "none",
+        "lineupsStatus": "unconfirmed"
+      },
+      "players": [],
+      "odds": [],
+      "result": {
+        "homeGoals": 3,
+        "awayGoals": 1
+      }
+    },
+    {
+      "id": "apif-1647361",
+      "fixtureId": 1647361,
+      "dateGroup": "2026-11-13",
+      "kickoff": "2026-11-13T14:30:00+00:00",
+      "hour": "14:30",
+      "status": "FIN",
+      "league": "Friendlies",
+      "leagueId": 10,
+      "leagueSeason": 2026,
+      "leagueLogo": "https://media.api-sports.io/football/leagues/10.png",
+      "source": "API-Football",
+      "updatedAt": "2026-11-14T17:04:54.947Z",
+      "enrichedAt": null,
+      "local": {
+        "name": "Saudi Arabia",
+        "id": "23",
+        "logo": "https://media.api-sports.io/football/teams/23.png",
+        "history": []
+      },
+      "visita": {
+        "name": "South Korea",
+        "id": "17",
+        "logo": "https://media.api-sports.io/football/teams/17.png",
+        "history": []
+      },
+      "leagueProfile": {
+        "avgHomeXG": 1.45,
+        "avgAwayXG": 1.18,
+        "avgHomeCorners": 5.15,
+        "avgAwayCorners": 4.25,
+        "avgHomeCards": 2.15,
+        "avgAwayCards": 2.35,
+        "dixonColesRho": -0.08,
+        "h2hWeight": 0.05
+      },
+      "context": {
+        "importance": "normal",
+        "derby": false,
+        "tieStage": "none",
+        "lineupsStatus": "unconfirmed"
+      },
+      "players": [],
+      "odds": [],
+      "result": {
+        "homeGoals": 3,
+        "awayGoals": 2
+      }
+    },
+    {
+      "id": "apif-1640084",
+      "fixtureId": 1640084,
+      "dateGroup": "2026-11-13",
+      "kickoff": "2026-11-13T14:45:00+00:00",
+      "hour": "14:45",
+      "status": "FIN",
+      "league": "Friendlies",
+      "leagueId": 10,
+      "leagueSeason": 2026,
+      "leagueLogo": "https://media.api-sports.io/football/leagues/10.png",
+      "source": "API-Football",
+      "updatedAt": "2026-11-14T17:04:54.947Z",
+      "enrichedAt": null,
+      "local": {
+        "name": "Qatar",
+        "id": "1569",
+        "logo": "https://media.api-sports.io/football/teams/1569.png",
+        "history": []
+      },
+      "visita": {
+        "name": "Australia",
+        "id": "20",
+        "logo": "https://media.api-sports.io/football/teams/20.png",
+        "history": []
+      },
+      "leagueProfile": {
+        "avgHomeXG": 1.45,
+        "avgAwayXG": 1.18,
+        "avgHomeCorners": 5.15,
+        "avgAwayCorners": 4.25,
+        "avgHomeCards": 2.15,
+        "avgAwayCards": 2.35,
+        "dixonColesRho": -0.08,
+        "h2hWeight": 0.05
+      },
+      "context": {
+        "importance": "normal",
+        "derby": false,
+        "tieStage": "none",
+        "lineupsStatus": "unconfirmed"
+      },
+      "players": [],
+      "odds": [],
+      "result": {
+        "homeGoals": 0,
+        "awayGoals": 3
+      }
+    },
+    {
+      "id": "apif-1649542",
+      "fixtureId": 1649542,
+      "dateGroup": "2026-11-13",
+      "kickoff": "2026-11-13T16:30:00+00:00",
+      "hour": "16:30",
+      "status": "FIN",
+      "league": "Friendlies",
+      "leagueId": 10,
+      "leagueSeason": 2026,
+      "leagueLogo": "https://media.api-sports.io/football/leagues/10.png",
+      "source": "API-Football",
+      "updatedAt": "2026-11-14T17:04:54.947Z",
+      "enrichedAt": null,
+      "local": {
+        "name": "Kuwait",
+        "id": "1570",
+        "logo": "https://media.api-sports.io/football/teams/1570.png",
+        "history": []
+      },
+      "visita": {
+        "name": "Syria",
+        "id": "1565",
+        "logo": "https://media.api-sports.io/football/teams/1565.png",
+        "history": []
+      },
+      "leagueProfile": {
+        "avgHomeXG": 1.45,
+        "avgAwayXG": 1.18,
+        "avgHomeCorners": 5.15,
+        "avgAwayCorners": 4.25,
+        "avgHomeCards": 2.15,
+        "avgAwayCards": 2.35,
+        "dixonColesRho": -0.08,
+        "h2hWeight": 0.05
+      },
+      "context": {
+        "importance": "normal",
+        "derby": false,
+        "tieStage": "none",
+        "lineupsStatus": "unconfirmed"
+      },
+      "players": [],
+      "odds": [],
+      "result": {
+        "homeGoals": 3,
+        "awayGoals": 0
+      }
+    },
+    {
+      "id": "apif-1649543",
+      "fixtureId": 1649543,
+      "dateGroup": "2026-11-13",
+      "kickoff": "2026-11-13T16:30:00+00:00",
+      "hour": "16:30",
+      "status": "FIN",
+      "league": "Friendlies",
+      "leagueId": 10,
+      "leagueSeason": 2026,
+      "leagueLogo": "https://media.api-sports.io/football/leagues/10.png",
+      "source": "API-Football",
+      "updatedAt": "2026-11-14T17:04:54.947Z",
+      "enrichedAt": null,
+      "local": {
+        "name": "Poland U21",
+        "id": "8215",
+        "logo": "https://media.api-sports.io/football/teams/8215.png",
+        "history": []
+      },
+      "visita": {
+        "name": "Norway U21",
+        "id": "8214",
+        "logo": "https://media.api-sports.io/football/teams/8214.png",
+        "history": []
+      },
+      "leagueProfile": {
+        "avgHomeXG": 1.45,
+        "avgAwayXG": 1.18,
+        "avgHomeCorners": 5.15,
+        "avgAwayCorners": 4.25,
+        "avgHomeCards": 2.15,
+        "avgAwayCards": 2.35,
+        "dixonColesRho": -0.08,
+        "h2hWeight": 0.05
+      },
+      "context": {
+        "importance": "normal",
+        "derby": false,
+        "tieStage": "none",
+        "lineupsStatus": "unconfirmed"
+      },
+      "players": [],
+      "odds": [],
+      "result": {
+        "homeGoals": 2,
+        "awayGoals": 0
+      }
+    },
+    {
+      "id": "apif-1649013",
+      "fixtureId": 1649013,
+      "dateGroup": "2026-11-13",
+      "kickoff": "2026-11-13T17:00:00+00:00",
+      "hour": "17:00",
+      "status": "FIN",
+      "league": "Friendlies",
+      "leagueId": 10,
+      "leagueSeason": 2026,
+      "leagueLogo": "https://media.api-sports.io/football/leagues/10.png",
+      "source": "API-Football",
+      "updatedAt": "2026-11-14T17:04:54.947Z",
+      "enrichedAt": null,
+      "local": {
+        "name": "Germany U21",
+        "id": "8196",
+        "logo": "https://media.api-sports.io/football/teams/8196.png",
+        "history": []
+      },
+      "visita": {
+        "name": "Belgium U21",
+        "id": "8183",
+        "logo": "https://media.api-sports.io/football/teams/8183.png",
+        "history": []
+      },
+      "leagueProfile": {
+        "avgHomeXG": 1.45,
+        "avgAwayXG": 1.18,
+        "avgHomeCorners": 5.15,
+        "avgAwayCorners": 4.25,
+        "avgHomeCards": 2.15,
+        "avgAwayCards": 2.35,
+        "dixonColesRho": -0.08,
+        "h2hWeight": 0.05
+      },
+      "context": {
+        "importance": "normal",
+        "derby": false,
+        "tieStage": "none",
+        "lineupsStatus": "unconfirmed"
+      },
+      "players": [],
+      "odds": [],
+      "result": {
+        "homeGoals": 1,
+        "awayGoals": 2
+      }
+    },
+    {
+      "id": "apif-1647637",
+      "fixtureId": 1647637,
+      "dateGroup": "2026-11-13",
+      "kickoff": "2026-11-13T17:30:00+00:00",
+      "hour": "17:30",
+      "status": "FIN",
+      "league": "Friendlies",
+      "leagueId": 10,
+      "leagueSeason": 2026,
+      "leagueLogo": "https://media.api-sports.io/football/leagues/10.png",
+      "source": "API-Football",
+      "updatedAt": "2026-11-14T17:04:54.947Z",
+      "enrichedAt": null,
+      "local": {
+        "name": "France U21",
+        "id": "8194",
+        "logo": "https://media.api-sports.io/football/teams/8194.png",
+        "history": []
+      },
+      "visita": {
+        "name": "Italy U21",
+        "id": "8201",
+        "logo": "https://media.api-sports.io/football/teams/8201.png",
+        "history": []
+      },
+      "leagueProfile": {
+        "avgHomeXG": 1.45,
+        "avgAwayXG": 1.18,
+        "avgHomeCorners": 5.15,
+        "avgAwayCorners": 4.25,
+        "avgHomeCards": 2.15,
+        "avgAwayCards": 2.35,
+        "dixonColesRho": -0.08,
+        "h2hWeight": 0.05
+      },
+      "context": {
+        "importance": "normal",
+        "derby": false,
+        "tieStage": "none",
+        "lineupsStatus": "unconfirmed"
+      },
+      "players": [],
+      "odds": [],
+      "result": {
+        "homeGoals": 1,
+        "awayGoals": 2
+      }
+    },
+    {
+      "id": "apif-1640085",
+      "fixtureId": 1640085,
+      "dateGroup": "2026-11-13",
+      "kickoff": "2026-11-13T18:00:00+00:00",
+      "hour": "18:00",
+      "status": "PRE",
+      "league": "Friendlies",
+      "leagueId": 10,
+      "leagueSeason": 2026,
+      "leagueLogo": "https://media.api-sports.io/football/leagues/10.png",
+      "source": "API-Football",
+      "updatedAt": "2026-11-14T17:04:54.947Z",
+      "enrichedAt": null,
+      "local": {
+        "name": "Jordan",
+        "id": "1548",
+        "logo": "https://media.api-sports.io/football/teams/1548.png",
+        "history": []
+      },
+      "visita": {
+        "name": "Indonesia",
+        "id": "1571",
+        "logo": "https://media.api-sports.io/football/teams/1571.png",
+        "history": []
+      },
+      "leagueProfile": {
+        "avgHomeXG": 1.45,
+        "avgAwayXG": 1.18,
+        "avgHomeCorners": 5.15,
+        "avgAwayCorners": 4.25,
+        "avgHomeCards": 2.15,
+        "avgAwayCards": 2.35,
+        "dixonColesRho": -0.08,
+        "h2hWeight": 0.05
+      },
+      "context": {
+        "importance": "normal",
+        "derby": false,
+        "tieStage": "none",
+        "lineupsStatus": "unconfirmed"
+      },
+      "players": [],
+      "odds": [],
+      "result": null
+    },
+    {
+      "id": "apif-1649014",
+      "fixtureId": 1649014,
+      "dateGroup": "2026-11-13",
+      "kickoff": "2026-11-13T18:00:00+00:00",
+      "hour": "18:00",
+      "status": "FIN",
+      "league": "Friendlies",
+      "leagueId": 10,
+      "leagueSeason": 2026,
+      "leagueLogo": "https://media.api-sports.io/football/leagues/10.png",
+      "source": "API-Football",
+      "updatedAt": "2026-11-14T17:04:54.947Z",
+      "enrichedAt": null,
+      "local": {
+        "name": "Albania U21",
+        "id": "8177",
+        "logo": "https://media.api-sports.io/football/teams/8177.png",
+        "history": []
+      },
+      "visita": {
+        "name": "Luxembourg U21",
+        "id": "8207",
+        "logo": "https://media.api-sports.io/football/teams/8207.png",
+        "history": []
+      },
+      "leagueProfile": {
+        "avgHomeXG": 1.45,
+        "avgAwayXG": 1.18,
+        "avgHomeCorners": 5.15,
+        "avgAwayCorners": 4.25,
+        "avgHomeCards": 2.15,
+        "avgAwayCards": 2.35,
+        "dixonColesRho": -0.08,
+        "h2hWeight": 0.05
+      },
+      "context": {
+        "importance": "normal",
+        "derby": false,
+        "tieStage": "none",
+        "lineupsStatus": "unconfirmed"
+      },
+      "players": [],
+      "odds": [],
+      "result": {
+        "homeGoals": 3,
+        "awayGoals": 1
+      }
+    },
+    {
+      "id": "apif-1649015",
+      "fixtureId": 1649015,
+      "dateGroup": "2026-11-13",
+      "kickoff": "2026-11-13T18:00:00+00:00",
+      "hour": "18:00",
+      "status": "FIN",
+      "league": "Friendlies",
+      "leagueId": 10,
+      "leagueSeason": 2026,
+      "leagueLogo": "https://media.api-sports.io/football/leagues/10.png",
+      "source": "API-Football",
+      "updatedAt": "2026-11-14T17:04:54.947Z",
+      "enrichedAt": null,
+      "local": {
+        "name": "Chile U20",
+        "id": "16201",
+        "logo": "https://media.api-sports.io/football/teams/16201.png",
+        "history": []
+      },
+      "visita": {
+        "name": "Mexico U20",
+        "id": "10293",
+        "logo": "https://media.api-sports.io/football/teams/10293.png",
+        "history": []
+      },
+      "leagueProfile": {
+        "avgHomeXG": 1.45,
+        "avgAwayXG": 1.18,
+        "avgHomeCorners": 5.15,
+        "avgAwayCorners": 4.25,
+        "avgHomeCards": 2.15,
+        "avgAwayCards": 2.35,
+        "dixonColesRho": -0.08,
+        "h2hWeight": 0.05
+      },
+      "context": {
+        "importance": "normal",
+        "derby": false,
+        "tieStage": "none",
+        "lineupsStatus": "unconfirmed"
+      },
+      "players": [],
+      "odds": [],
+      "result": {
+        "homeGoals": 1,
+        "awayGoals": 1
+      }
+    },
+    {
+      "id": "apif-1649544",
+      "fixtureId": 1649544,
+      "dateGroup": "2026-11-13",
+      "kickoff": "2026-11-13T18:00:00+00:00",
+      "hour": "18:00",
+      "status": "FIN",
+      "league": "Friendlies",
+      "leagueId": 10,
+      "leagueSeason": 2026,
+      "leagueLogo": "https://media.api-sports.io/football/leagues/10.png",
+      "source": "API-Football",
+      "updatedAt": "2026-11-14T17:04:54.947Z",
+      "enrichedAt": null,
+      "local": {
+        "name": "Spain U21",
+        "id": "8224",
+        "logo": "https://media.api-sports.io/football/teams/8224.png",
+        "history": []
+      },
+      "visita": {
+        "name": "Japan U21",
+        "id": "23539",
+        "logo": "https://media.api-sports.io/football/teams/23539.png",
+        "history": []
+      },
+      "leagueProfile": {
+        "avgHomeXG": 1.45,
+        "avgAwayXG": 1.18,
+        "avgHomeCorners": 5.15,
+        "avgAwayCorners": 4.25,
+        "avgHomeCards": 2.15,
+        "avgAwayCards": 2.35,
+        "dixonColesRho": -0.08,
+        "h2hWeight": 0.05
+      },
+      "context": {
+        "importance": "normal",
+        "derby": false,
+        "tieStage": "none",
+        "lineupsStatus": "unconfirmed"
+      },
+      "players": [],
+      "odds": [],
+      "result": {
+        "homeGoals": 2,
+        "awayGoals": 0
+      }
+    },
+    {
+      "id": "apif-1646120",
+      "fixtureId": 1646120,
+      "dateGroup": "2026-11-13",
+      "kickoff": "2026-11-13T19:30:00+00:00",
+      "hour": "19:30",
+      "status": "FIN",
+      "league": "Friendlies",
+      "leagueId": 10,
+      "leagueSeason": 2026,
+      "leagueLogo": "https://media.api-sports.io/football/leagues/10.png",
+      "source": "API-Football",
+      "updatedAt": "2026-11-14T17:04:54.947Z",
+      "enrichedAt": null,
+      "local": {
+        "name": "England U21",
+        "id": "8190",
+        "logo": "https://media.api-sports.io/football/teams/8190.png",
+        "history": []
+      },
+      "visita": {
+        "name": "Portugal U21",
+        "id": "8216",
+        "logo": "https://media.api-sports.io/football/teams/8216.png",
+        "history": []
+      },
+      "leagueProfile": {
+        "avgHomeXG": 1.45,
+        "avgAwayXG": 1.18,
+        "avgHomeCorners": 5.15,
+        "avgAwayCorners": 4.25,
+        "avgHomeCards": 2.15,
+        "avgAwayCards": 2.35,
+        "dixonColesRho": -0.08,
+        "h2hWeight": 0.05
+      },
+      "context": {
+        "importance": "normal",
+        "derby": false,
+        "tieStage": "none",
+        "lineupsStatus": "unconfirmed"
+      },
+      "players": [],
+      "odds": [],
+      "result": {
+        "homeGoals": 0,
+        "awayGoals": 1
+      }
+    },
+    {
+      "id": "apif-1647362",
+      "fixtureId": 1647362,
+      "dateGroup": "2026-11-13",
+      "kickoff": "2026-11-13T23:00:00+00:00",
+      "hour": "23:00",
+      "status": "FIN",
+      "league": "Friendlies",
+      "leagueId": 10,
+      "leagueSeason": 2026,
+      "leagueLogo": "https://media.api-sports.io/football/leagues/10.png",
+      "source": "API-Football",
+      "updatedAt": "2026-11-14T17:04:54.947Z",
+      "enrichedAt": null,
+      "local": {
+        "name": "Argentina",
+        "id": "26",
+        "logo": "https://media.api-sports.io/football/teams/26.png",
+        "history": []
+      },
+      "visita": {
+        "name": "Uruguay",
+        "id": "7",
+        "logo": "https://media.api-sports.io/football/teams/7.png",
+        "history": []
+      },
+      "leagueProfile": {
+        "avgHomeXG": 1.45,
+        "avgAwayXG": 1.18,
+        "avgHomeCorners": 5.15,
+        "avgAwayCorners": 4.25,
+        "avgHomeCards": 2.15,
+        "avgAwayCards": 2.35,
+        "dixonColesRho": -0.08,
+        "h2hWeight": 0.05
+      },
+      "context": {
+        "importance": "normal",
+        "derby": false,
+        "tieStage": "none",
+        "lineupsStatus": "unconfirmed"
+      },
+      "players": [],
+      "odds": [],
+      "result": {
+        "homeGoals": 1,
+        "awayGoals": 2
+      }
+    },
+    {
+      "id": "apif-1649545",
+      "fixtureId": 1649545,
+      "dateGroup": "2026-11-13",
+      "kickoff": "2026-11-13T23:00:00+00:00",
+      "hour": "23:00",
+      "status": "FIN",
+      "league": "Friendlies",
+      "leagueId": 10,
+      "leagueSeason": 2026,
+      "leagueLogo": "https://media.api-sports.io/football/leagues/10.png",
+      "source": "API-Football",
+      "updatedAt": "2026-11-14T17:04:54.947Z",
+      "enrichedAt": null,
+      "local": {
+        "name": "Brazil U20",
+        "id": "16200",
+        "logo": "https://media.api-sports.io/football/teams/16200.png",
+        "history": []
+      },
+      "visita": {
+        "name": "Peru U20",
+        "id": "16203",
+        "logo": "https://media.api-sports.io/football/teams/16203.png",
+        "history": []
+      },
+      "leagueProfile": {
+        "avgHomeXG": 1.45,
+        "avgAwayXG": 1.18,
+        "avgHomeCorners": 5.15,
+        "avgAwayCorners": 4.25,
+        "avgHomeCards": 2.15,
+        "avgAwayCards": 2.35,
+        "dixonColesRho": -0.08,
+        "h2hWeight": 0.05
+      },
+      "context": {
+        "importance": "normal",
+        "derby": false,
+        "tieStage": "none",
+        "lineupsStatus": "unconfirmed"
+      },
+      "players": [],
+      "odds": [],
+      "result": {
+        "homeGoals": 2,
+        "awayGoals": 0
+      }
+    },
+    {
+      "id": "apif-1549870",
+      "fixtureId": 1549870,
+      "dateGroup": "2026-11-13",
+      "kickoff": "2026-11-13T00:00:00+00:00",
+      "hour": "00:00",
+      "status": "FIN",
+      "league": "Colombia: Primera A",
+      "leagueId": 239,
+      "leagueSeason": 2026,
+      "leagueLogo": "https://media.api-sports.io/football/leagues/239.png",
+      "source": "API-Football",
+      "updatedAt": "2026-11-14T17:04:54.947Z",
+      "enrichedAt": null,
+      "local": {
+        "name": "Llaneros",
+        "id": "1464",
+        "logo": "https://media.api-sports.io/football/teams/1464.png",
+        "history": []
+      },
+      "visita": {
+        "name": "Chico",
+        "id": "1132",
+        "logo": "https://media.api-sports.io/football/teams/1132.png",
+        "history": []
+      },
+      "leagueProfile": {
+        "avgHomeXG": 1.45,
+        "avgAwayXG": 1.18,
+        "avgHomeCorners": 5.15,
+        "avgAwayCorners": 4.25,
+        "avgHomeCards": 2.15,
+        "avgAwayCards": 2.35,
+        "dixonColesRho": -0.08,
+        "h2hWeight": 0.05
+      },
+      "context": {
+        "importance": "normal",
+        "derby": false,
+        "tieStage": "none",
+        "lineupsStatus": "unconfirmed"
+      },
+      "players": [],
+      "odds": [],
+      "result": {
+        "homeGoals": 0,
+        "awayGoals": 0
+      }
+    },
+    {
+      "id": "apif-1649517",
+      "fixtureId": 1649517,
+      "dateGroup": "2026-11-13",
+      "kickoff": "2026-11-13T02:00:00+00:00",
+      "hour": "02:00",
+      "status": "FIN",
+      "league": "Mexico: Liga de Expansión MX",
+      "leagueId": 263,
+      "leagueSeason": 2026,
+      "leagueLogo": "https://media.api-sports.io/football/leagues/263.png",
+      "source": "API-Football",
+      "updatedAt": "2026-11-14T17:04:54.947Z",
+      "enrichedAt": null,
+      "local": {
+        "name": "Monarcas",
+        "id": "2284",
+        "logo": "https://media.api-sports.io/football/teams/2284.png",
+        "history": []
+      },
+      "visita": {
+        "name": "Leones Negros UDG",
+        "id": "2307",
+        "logo": "https://media.api-sports.io/football/teams/2307.png",
+        "history": []
+      },
+      "leagueProfile": {
+        "avgHomeXG": 1.45,
+        "avgAwayXG": 1.18,
+        "avgHomeCorners": 5.15,
+        "avgAwayCorners": 4.25,
+        "avgHomeCards": 2.15,
+        "avgAwayCards": 2.35,
+        "dixonColesRho": -0.08,
+        "h2hWeight": 0.05
+      },
+      "context": {
+        "importance": "normal",
+        "derby": false,
+        "tieStage": "none",
+        "lineupsStatus": "unconfirmed"
+      },
+      "players": [],
+      "odds": [],
+      "result": {
+        "homeGoals": 1,
+        "awayGoals": 0
+      }
+    },
+    {
+      "id": "apif-1646999",
+      "fixtureId": 1646999,
+      "dateGroup": "2026-11-13",
+      "kickoff": "2026-11-13T05:00:00+00:00",
+      "hour": "05:00",
+      "status": "FIN",
+      "league": "Mongolia: Premier League",
+      "leagueId": 764,
+      "leagueSeason": 2027,
+      "leagueLogo": "https://media.api-sports.io/football/leagues/764.png",
+      "source": "API-Football",
+      "updatedAt": "2026-11-14T17:04:54.947Z",
+      "enrichedAt": null,
+      "local": {
+        "name": "Ulaanbaatar",
+        "id": "16854",
+        "logo": "https://media.api-sports.io/football/teams/16854.png",
+        "history": []
+      },
+      "visita": {
+        "name": "Hunters",
+        "id": "24722",
+        "logo": "https://media.api-sports.io/football/teams/24722.png",
+        "history": []
+      },
+      "leagueProfile": {
+        "avgHomeXG": 1.45,
+        "avgAwayXG": 1.18,
+        "avgHomeCorners": 5.15,
+        "avgAwayCorners": 4.25,
+        "avgHomeCards": 2.15,
+        "avgAwayCards": 2.35,
+        "dixonColesRho": -0.08,
+        "h2hWeight": 0.05
+      },
+      "context": {
+        "importance": "normal",
+        "derby": false,
+        "tieStage": "none",
+        "lineupsStatus": "unconfirmed"
+      },
+      "players": [],
+      "odds": [],
+      "result": {
+        "homeGoals": 7,
+        "awayGoals": 1
+      }
+    },
+    {
+      "id": "apif-1647000",
+      "fixtureId": 1647000,
+      "dateGroup": "2026-11-13",
+      "kickoff": "2026-11-13T08:00:00+00:00",
+      "hour": "08:00",
+      "status": "FIN",
+      "league": "Mongolia: Premier League",
+      "leagueId": 764,
+      "leagueSeason": 2027,
+      "leagueLogo": "https://media.api-sports.io/football/leagues/764.png",
+      "source": "API-Football",
+      "updatedAt": "2026-11-14T17:04:54.947Z",
+      "enrichedAt": null,
+      "local": {
+        "name": "Deren",
+        "id": "16185",
+        "logo": "https://media.api-sports.io/football/teams/16185.png",
+        "history": []
+      },
+      "visita": {
+        "name": "Central Stallions",
+        "id": "22067",
+        "logo": "https://media.api-sports.io/football/teams/22067.png",
+        "history": []
+      },
+      "leagueProfile": {
+        "avgHomeXG": 1.45,
+        "avgAwayXG": 1.18,
+        "avgHomeCorners": 5.15,
+        "avgAwayCorners": 4.25,
+        "avgHomeCards": 2.15,
+        "avgAwayCards": 2.35,
+        "dixonColesRho": -0.08,
+        "h2hWeight": 0.05
+      },
+      "context": {
+        "importance": "normal",
+        "derby": false,
+        "tieStage": "none",
+        "lineupsStatus": "unconfirmed"
+      },
+      "players": [],
+      "odds": [],
+      "result": {
+        "homeGoals": 4,
+        "awayGoals": 3
+      }
+    },
+    {
+      "id": "apif-1640361",
+      "fixtureId": 1640361,
+      "dateGroup": "2026-11-13",
+      "kickoff": "2026-11-13T08:30:00+00:00",
+      "hour": "08:30",
+      "status": "FIN",
+      "league": "Australia: Australian Championship",
+      "leagueId": 1202,
+      "leagueSeason": 2026,
+      "leagueLogo": "https://media.api-sports.io/football/leagues/1202.png",
+      "source": "API-Football",
+      "updatedAt": "2026-11-14T17:04:54.947Z",
+      "enrichedAt": null,
+      "local": {
+        "name": "Oakleigh Cannons",
+        "id": "3808",
+        "logo": "https://media.api-sports.io/football/teams/3808.png",
+        "history": []
+      },
+      "visita": {
+        "name": "Marconi Stallions",
+        "id": "3768",
+        "logo": "https://media.api-sports.io/football/teams/3768.png",
+        "history": []
+      },
+      "leagueProfile": {
+        "avgHomeXG": 1.45,
+        "avgAwayXG": 1.18,
+        "avgHomeCorners": 5.15,
+        "avgAwayCorners": 4.25,
+        "avgHomeCards": 2.15,
+        "avgAwayCards": 2.35,
+        "dixonColesRho": -0.08,
+        "h2hWeight": 0.05
+      },
+      "context": {
+        "importance": "normal",
+        "derby": false,
+        "tieStage": "none",
+        "lineupsStatus": "unconfirmed"
+      },
+      "players": [],
+      "odds": [],
+      "result": {
+        "homeGoals": 2,
+        "awayGoals": 2
+      }
+    },
+    {
+      "id": "apif-1640362",
+      "fixtureId": 1640362,
+      "dateGroup": "2026-11-13",
+      "kickoff": "2026-11-13T08:30:00+00:00",
+      "hour": "08:30",
+      "status": "FIN",
+      "league": "Australia: Australian Championship",
+      "leagueId": 1202,
+      "leagueSeason": 2026,
+      "leagueLogo": "https://media.api-sports.io/football/leagues/1202.png",
+      "source": "API-Football",
+      "updatedAt": "2026-11-14T17:04:54.947Z",
+      "enrichedAt": null,
+      "local": {
+        "name": "Preston Lions",
+        "id": "19705",
+        "logo": "https://media.api-sports.io/football/teams/19705.png",
+        "history": []
+      },
+      "visita": {
+        "name": "Lions",
+        "id": "10217",
+        "logo": "https://media.api-sports.io/football/teams/10217.png",
+        "history": []
+      },
+      "leagueProfile": {
+        "avgHomeXG": 1.45,
+        "avgAwayXG": 1.18,
+        "avgHomeCorners": 5.15,
+        "avgAwayCorners": 4.25,
+        "avgHomeCards": 2.15,
+        "avgAwayCards": 2.35,
+        "dixonColesRho": -0.08,
+        "h2hWeight": 0.05
+      },
+      "context": {
+        "importance": "normal",
+        "derby": false,
+        "tieStage": "none",
+        "lineupsStatus": "unconfirmed"
+      },
+      "players": [],
+      "odds": [],
+      "result": {
+        "homeGoals": 3,
+        "awayGoals": 1
+      }
+    },
+    {
+      "id": "apif-1581973",
+      "fixtureId": 1581973,
+      "dateGroup": "2026-11-13",
+      "kickoff": "2026-11-13T10:00:00+00:00",
+      "hour": "10:00",
+      "status": "FIN",
+      "league": "Ukraine: Persha Liga",
+      "leagueId": 334,
+      "leagueSeason": 2026,
+      "leagueLogo": "https://media.api-sports.io/football/leagues/334.png",
+      "source": "API-Football",
+      "updatedAt": "2026-11-14T17:04:54.947Z",
+      "enrichedAt": null,
+      "local": {
+        "name": "Prykarpattia",
+        "id": "3631",
+        "logo": "https://media.api-sports.io/football/teams/3631.png",
+        "history": []
+      },
+      "visita": {
+        "name": "Kolos Kovalivka II",
+        "id": "24585",
+        "logo": "https://media.api-sports.io/football/teams/24585.png",
+        "history": []
+      },
+      "leagueProfile": {
+        "avgHomeXG": 1.45,
+        "avgAwayXG": 1.18,
+        "avgHomeCorners": 5.15,
+        "avgAwayCorners": 4.25,
+        "avgHomeCards": 2.15,
+        "avgAwayCards": 2.35,
+        "dixonColesRho": -0.08,
+        "h2hWeight": 0.05
+      },
+      "context": {
+        "importance": "normal",
+        "derby": false,
+        "tieStage": "none",
+        "lineupsStatus": "unconfirmed"
+      },
+      "players": [],
+      "odds": [],
+      "result": {
+        "homeGoals": 1,
+        "awayGoals": 1
+      }
+    },
+    {
+      "id": "apif-1649938",
+      "fixtureId": 1649938,
+      "dateGroup": "2026-11-13",
+      "kickoff": "2026-11-13T10:00:00+00:00",
+      "hour": "10:00",
+      "status": "FIN",
+      "league": "Friendlies Clubs",
+      "leagueId": 667,
+      "leagueSeason": 2026,
+      "leagueLogo": "https://media.api-sports.io/football/leagues/667.png",
+      "source": "API-Football",
+      "updatedAt": "2026-11-14T17:04:54.947Z",
+      "enrichedAt": null,
+      "local": {
+        "name": "Schwarz-Weiß Bregenz",
+        "id": "8259",
+        "logo": "https://media.api-sports.io/football/teams/8259.png",
+        "history": []
+      },
+      "visita": {
+        "name": "SCR Altach",
+        "id": "618",
+        "logo": "https://media.api-sports.io/football/teams/618.png",
+        "history": []
+      },
+      "leagueProfile": {
+        "avgHomeXG": 1.45,
+        "avgAwayXG": 1.18,
+        "avgHomeCorners": 5.15,
+        "avgAwayCorners": 4.25,
+        "avgHomeCards": 2.15,
+        "avgAwayCards": 2.35,
+        "dixonColesRho": -0.08,
+        "h2hWeight": 0.05
+      },
+      "context": {
+        "importance": "normal",
+        "derby": false,
+        "tieStage": "none",
+        "lineupsStatus": "unconfirmed"
+      },
+      "players": [],
+      "odds": [],
+      "result": {
+        "homeGoals": 1,
+        "awayGoals": 5
+      }
+    },
+    {
+      "id": "apif-1649939",
+      "fixtureId": 1649939,
+      "dateGroup": "2026-11-13",
+      "kickoff": "2026-11-13T10:00:00+00:00",
+      "hour": "10:00",
+      "status": "PRE",
+      "league": "Friendlies Clubs",
+      "leagueId": 667,
+      "leagueSeason": 2026,
+      "leagueLogo": "https://media.api-sports.io/football/leagues/667.png",
+      "source": "API-Football",
+      "updatedAt": "2026-11-14T17:04:54.947Z",
+      "enrichedAt": null,
+      "local": {
+        "name": "Mlada Boleslav",
+        "id": "640",
+        "logo": "https://media.api-sports.io/football/teams/640.png",
+        "history": []
+      },
+      "visita": {
+        "name": "Vysočina Jihlava",
+        "id": "3731",
+        "logo": "https://media.api-sports.io/football/teams/3731.png",
+        "history": []
+      },
+      "leagueProfile": {
+        "avgHomeXG": 1.45,
+        "avgAwayXG": 1.18,
+        "avgHomeCorners": 5.15,
+        "avgAwayCorners": 4.25,
+        "avgHomeCards": 2.15,
+        "avgAwayCards": 2.35,
+        "dixonColesRho": -0.08,
+        "h2hWeight": 0.05
+      },
+      "context": {
+        "importance": "normal",
+        "derby": false,
+        "tieStage": "none",
+        "lineupsStatus": "unconfirmed"
+      },
+      "players": [],
+      "odds": [],
+      "result": null
+    },
+    {
+      "id": "apif-1593076",
+      "fixtureId": 1593076,
+      "dateGroup": "2026-11-13",
+      "kickoff": "2026-11-13T10:30:00+00:00",
+      "hour": "10:30",
+      "status": "FIN",
+      "league": "Ukraine: Druha Liga",
+      "leagueId": 336,
+      "leagueSeason": 2026,
+      "leagueLogo": "https://media.api-sports.io/football/leagues/336.png",
+      "source": "API-Football",
+      "updatedAt": "2026-11-14T17:04:54.947Z",
+      "enrichedAt": null,
+      "local": {
+        "name": "Karbon Cherkasy",
+        "id": "26451",
+        "logo": "https://media.api-sports.io/football/teams/26451.png",
+        "history": []
+      },
+      "visita": {
+        "name": "Atlet",
+        "id": "26187",
+        "logo": "https://media.api-sports.io/football/teams/26187.png",
+        "history": []
+      },
+      "leagueProfile": {
+        "avgHomeXG": 1.45,
+        "avgAwayXG": 1.18,
+        "avgHomeCorners": 5.15,
+        "avgAwayCorners": 4.25,
+        "avgHomeCards": 2.15,
+        "avgAwayCards": 2.35,
+        "dixonColesRho": -0.08,
+        "h2hWeight": 0.05
+      },
+      "context": {
+        "importance": "normal",
+        "derby": false,
+        "tieStage": "none",
+        "lineupsStatus": "unconfirmed"
+      },
+      "players": [],
+      "odds": [],
+      "result": {
+        "homeGoals": 1,
+        "awayGoals": 4
+      }
+    },
+    {
+      "id": "apif-1633689",
+      "fixtureId": 1633689,
+      "dateGroup": "2026-11-13",
+      "kickoff": "2026-11-13T11:00:00+00:00",
+      "hour": "11:00",
+      "status": "FIN",
+      "league": "Romania: Liga III - Serie 7",
+      "leagueId": 790,
+      "leagueSeason": 2026,
+      "leagueLogo": "https://media.api-sports.io/football/leagues/790.png",
+      "source": "API-Football",
+      "updatedAt": "2026-11-14T17:04:54.947Z",
+      "enrichedAt": null,
+      "local": {
+        "name": "Poli Timisoara 2",
+        "id": "28329",
+        "logo": "https://media.api-sports.io/football/teams/28329.png",
+        "history": []
+      },
+      "visita": {
+        "name": "Progresul Pecica",
+        "id": "7483",
+        "logo": "https://media.api-sports.io/football/teams/7483.png",
+        "history": []
+      },
+      "leagueProfile": {
+        "avgHomeXG": 1.45,
+        "avgAwayXG": 1.18,
+        "avgHomeCorners": 5.15,
+        "avgAwayCorners": 4.25,
+        "avgHomeCards": 2.15,
+        "avgAwayCards": 2.35,
+        "dixonColesRho": -0.08,
+        "h2hWeight": 0.05
+      },
+      "context": {
+        "importance": "normal",
+        "derby": false,
+        "tieStage": "none",
+        "lineupsStatus": "unconfirmed"
+      },
+      "players": [],
+      "odds": [],
+      "result": {
+        "homeGoals": 1,
+        "awayGoals": 1
+      }
+    },
+    {
+      "id": "apif-1646119",
+      "fixtureId": 1646119,
+      "dateGroup": "2026-11-13",
+      "kickoff": "2026-11-13T11:00:00+00:00",
+      "hour": "11:00",
+      "status": "FIN",
+      "league": "Friendlies Clubs",
+      "leagueId": 667,
+      "leagueSeason": 2026,
+      "leagueLogo": "https://media.api-sports.io/football/leagues/667.png",
+      "source": "API-Football",
+      "updatedAt": "2026-11-14T17:04:54.947Z",
+      "enrichedAt": null,
+      "local": {
+        "name": "Vasteras SK FK",
+        "id": "2241",
+        "logo": "https://media.api-sports.io/football/teams/2241.png",
+        "history": []
+      },
+      "visita": {
+        "name": "IF Brommapojkarna",
+        "id": "371",
+        "logo": "https://media.api-sports.io/football/teams/371.png",
+        "history": []
+      },
+      "leagueProfile": {
+        "avgHomeXG": 1.45,
+        "avgAwayXG": 1.18,
+        "avgHomeCorners": 5.15,
+        "avgAwayCorners": 4.25,
+        "avgHomeCards": 2.15,
+        "avgAwayCards": 2.35,
+        "dixonColesRho": -0.08,
+        "h2hWeight": 0.05
+      },
+      "context": {
+        "importance": "normal",
+        "derby": false,
+        "tieStage": "none",
+        "lineupsStatus": "unconfirmed"
+      },
+      "players": [],
+      "odds": [],
+      "result": {
+        "homeGoals": 1,
+        "awayGoals": 1
+      }
+    },
+    {
+      "id": "apif-1593078",
+      "fixtureId": 1593078,
+      "dateGroup": "2026-11-13",
+      "kickoff": "2026-11-13T11:30:00+00:00",
+      "hour": "11:30",
+      "status": "FIN",
+      "league": "Ukraine: Druha Liga",
+      "leagueId": 336,
+      "leagueSeason": 2026,
+      "leagueLogo": "https://media.api-sports.io/football/leagues/336.png",
+      "source": "API-Football",
+      "updatedAt": "2026-11-14T17:04:54.947Z",
+      "enrichedAt": null,
+      "local": {
+        "name": "Ruh Lviv",
+        "id": "3632",
+        "logo": "https://media.api-sports.io/football/teams/3632.png",
+        "history": []
+      },
+      "visita": {
+        "name": "Nyva Ternopil II",
+        "id": "24587",
+        "logo": "https://media.api-sports.io/football/teams/24587.png",
+        "history": []
+      },
+      "leagueProfile": {
+        "avgHomeXG": 1.45,
+        "avgAwayXG": 1.18,
+        "avgHomeCorners": 5.15,
+        "avgAwayCorners": 4.25,
+        "avgHomeCards": 2.15,
+        "avgAwayCards": 2.35,
+        "dixonColesRho": -0.08,
+        "h2hWeight": 0.05
+      },
+      "context": {
+        "importance": "normal",
+        "derby": false,
+        "tieStage": "none",
+        "lineupsStatus": "unconfirmed"
+      },
+      "players": [],
+      "odds": [],
+      "result": {
+        "homeGoals": 1,
+        "awayGoals": 2
+      }
+    },
+    {
+      "id": "apif-1648271",
+      "fixtureId": 1648271,
+      "dateGroup": "2026-11-13",
+      "kickoff": "2026-11-13T11:30:00+00:00",
+      "hour": "11:30",
+      "status": "FIN",
+      "league": "Friendlies Clubs",
+      "leagueId": 667,
+      "leagueSeason": 2026,
+      "leagueLogo": "https://media.api-sports.io/football/leagues/667.png",
+      "source": "API-Football",
+      "updatedAt": "2026-11-14T17:04:54.947Z",
+      "enrichedAt": null,
+      "local": {
+        "name": "Turku PS",
+        "id": "1168",
+        "logo": "https://media.api-sports.io/football/teams/1168.png",
+        "history": []
+      },
+      "visita": {
+        "name": "Ilves",
+        "id": "1163",
+        "logo": "https://media.api-sports.io/football/teams/1163.png",
+        "history": []
+      },
+      "leagueProfile": {
+        "avgHomeXG": 1.45,
+        "avgAwayXG": 1.18,
+        "avgHomeCorners": 5.15,
+        "avgAwayCorners": 4.25,
+        "avgHomeCards": 2.15,
+        "avgAwayCards": 2.35,
+        "dixonColesRho": -0.08,
+        "h2hWeight": 0.05
+      },
+      "context": {
+        "importance": "normal",
+        "derby": false,
+        "tieStage": "none",
+        "lineupsStatus": "unconfirmed"
+      },
+      "players": [],
+      "odds": [],
+      "result": {
+        "homeGoals": 2,
+        "awayGoals": 1
+      }
+    },
+    {
+      "id": "apif-1649940",
+      "fixtureId": 1649940,
+      "dateGroup": "2026-11-13",
+      "kickoff": "2026-11-13T11:30:00+00:00",
+      "hour": "11:30",
+      "status": "FIN",
+      "league": "Friendlies Clubs",
+      "leagueId": 667,
+      "leagueSeason": 2026,
+      "leagueLogo": "https://media.api-sports.io/football/leagues/667.png",
+      "source": "API-Football",
+      "updatedAt": "2026-11-14T17:04:54.947Z",
+      "enrichedAt": null,
+      "local": {
+        "name": "VfL Bochum",
+        "id": "176",
+        "logo": "https://media.api-sports.io/football/teams/176.png",
+        "history": []
+      },
+      "visita": {
+        "name": "Verl",
+        "id": "4265",
+        "logo": "https://media.api-sports.io/football/teams/4265.png",
+        "history": []
+      },
+      "leagueProfile": {
+        "avgHomeXG": 1.45,
+        "avgAwayXG": 1.18,
+        "avgHomeCorners": 5.15,
+        "avgAwayCorners": 4.25,
+        "avgHomeCards": 2.15,
+        "avgAwayCards": 2.35,
+        "dixonColesRho": -0.08,
+        "h2hWeight": 0.05
+      },
+      "context": {
+        "importance": "normal",
+        "derby": false,
+        "tieStage": "none",
+        "lineupsStatus": "unconfirmed"
+      },
+      "players": [],
+      "odds": [],
+      "result": {
+        "homeGoals": 4,
+        "awayGoals": 1
+      }
+    },
+    {
+      "id": "apif-1649941",
+      "fixtureId": 1649941,
+      "dateGroup": "2026-11-13",
+      "kickoff": "2026-11-13T11:30:00+00:00",
+      "hour": "11:30",
+      "status": "FIN",
+      "league": "Friendlies Clubs",
+      "leagueId": 667,
+      "leagueSeason": 2026,
+      "leagueLogo": "https://media.api-sports.io/football/leagues/667.png",
+      "source": "API-Football",
+      "updatedAt": "2026-11-14T17:04:54.947Z",
+      "enrichedAt": null,
+      "local": {
+        "name": "TSV Hartberg",
+        "id": "1072",
+        "logo": "https://media.api-sports.io/football/teams/1072.png",
+        "history": []
+      },
+      "visita": {
+        "name": "Floridsdorfer AC",
+        "id": "1395",
+        "logo": "https://media.api-sports.io/football/teams/1395.png",
+        "history": []
+      },
+      "leagueProfile": {
+        "avgHomeXG": 1.45,
+        "avgAwayXG": 1.18,
+        "avgHomeCorners": 5.15,
+        "avgAwayCorners": 4.25,
+        "avgHomeCards": 2.15,
+        "avgAwayCards": 2.35,
+        "dixonColesRho": -0.08,
+        "h2hWeight": 0.05
+      },
+      "context": {
+        "importance": "normal",
+        "derby": false,
+        "tieStage": "none",
+        "lineupsStatus": "unconfirmed"
+      },
+      "players": [],
+      "odds": [],
+      "result": {
+        "homeGoals": 1,
+        "awayGoals": 1
+      }
+    },
+    {
+      "id": "apif-1634402",
+      "fixtureId": 1634402,
+      "dateGroup": "2026-11-13",
+      "kickoff": "2026-11-13T11:50:00+00:00",
+      "hour": "11:50",
+      "status": "FIN",
+      "league": "Saudi-Arabia: Division 2",
+      "leagueId": 309,
+      "leagueSeason": 2026,
+      "leagueLogo": "https://media.api-sports.io/football/leagues/309.png",
+      "source": "API-Football",
+      "updatedAt": "2026-11-14T17:04:54.947Z",
+      "enrichedAt": null,
+      "local": {
+        "name": "Al Safa",
+        "id": "2990",
+        "logo": "https://media.api-sports.io/football/teams/2990.png",
+        "history": []
+      },
+      "visita": {
+        "name": "Al Qalah",
+        "id": "27477",
+        "logo": "https://media.api-sports.io/football/teams/27477.png",
+        "history": []
+      },
+      "leagueProfile": {
+        "avgHomeXG": 1.45,
+        "avgAwayXG": 1.18,
+        "avgHomeCorners": 5.15,
+        "avgAwayCorners": 4.25,
+        "avgHomeCards": 2.15,
+        "avgAwayCards": 2.35,
+        "dixonColesRho": -0.08,
+        "h2hWeight": 0.05
+      },
+      "context": {
+        "importance": "normal",
+        "derby": false,
+        "tieStage": "none",
+        "lineupsStatus": "unconfirmed"
+      },
+      "players": [],
+      "odds": [],
+      "result": {
+        "homeGoals": 1,
+        "awayGoals": 1
+      }
+    },
+    {
+      "id": "apif-1634403",
+      "fixtureId": 1634403,
+      "dateGroup": "2026-11-13",
+      "kickoff": "2026-11-13T11:55:00+00:00",
+      "hour": "11:55",
+      "status": "FIN",
+      "league": "Saudi-Arabia: Division 2",
+      "leagueId": 309,
+      "leagueSeason": 2026,
+      "leagueLogo": "https://media.api-sports.io/football/leagues/309.png",
+      "source": "API-Football",
+      "updatedAt": "2026-11-14T17:04:54.947Z",
+      "enrichedAt": null,
+      "local": {
+        "name": "Al Nairyah",
+        "id": "10520",
+        "logo": "https://media.api-sports.io/football/teams/10520.png",
+        "history": []
+      },
+      "visita": {
+        "name": "Al Sahel",
+        "id": "15362",
+        "logo": "https://media.api-sports.io/football/teams/15362.png",
+        "history": []
+      },
+      "leagueProfile": {
+        "avgHomeXG": 1.45,
+        "avgAwayXG": 1.18,
+        "avgHomeCorners": 5.15,
+        "avgAwayCorners": 4.25,
+        "avgHomeCards": 2.15,
+        "avgAwayCards": 2.35,
+        "dixonColesRho": -0.08,
+        "h2hWeight": 0.05
+      },
+      "context": {
+        "importance": "normal",
+        "derby": false,
+        "tieStage": "none",
+        "lineupsStatus": "unconfirmed"
+      },
+      "players": [],
+      "odds": [],
+      "result": {
+        "homeGoals": 1,
+        "awayGoals": 0
+      }
+    },
+    {
+      "id": "apif-1565159",
+      "fixtureId": 1565159,
+      "dateGroup": "2026-11-13",
+      "kickoff": "2026-11-13T12:00:00+00:00",
+      "hour": "12:00",
+      "status": "FIN",
+      "league": "Czech-Republic: 1. Liga U19",
+      "leagueId": 668,
+      "leagueSeason": 2026,
+      "leagueLogo": "https://media.api-sports.io/football/leagues/668.png",
+      "source": "API-Football",
+      "updatedAt": "2026-11-14T17:04:54.947Z",
+      "enrichedAt": null,
+      "local": {
+        "name": "Zlín U19",
+        "id": "14840",
+        "logo": "https://media.api-sports.io/football/teams/14840.png",
+        "history": []
+      },
+      "visita": {
+        "name": "Dukla Praha U19",
+        "id": "19200",
+        "logo": "https://media.api-sports.io/football/teams/19200.png",
+        "history": []
+      },
+      "leagueProfile": {
+        "avgHomeXG": 1.45,
+        "avgAwayXG": 1.18,
+        "avgHomeCorners": 5.15,
+        "avgAwayCorners": 4.25,
+        "avgHomeCards": 2.15,
+        "avgAwayCards": 2.35,
+        "dixonColesRho": -0.08,
+        "h2hWeight": 0.05
+      },
+      "context": {
+        "importance": "normal",
+        "derby": false,
+        "tieStage": "none",
+        "lineupsStatus": "unconfirmed"
+      },
+      "players": [],
+      "odds": [],
+      "result": {
+        "homeGoals": 2,
+        "awayGoals": 2
+      }
+    },
+    {
+      "id": "apif-1568561",
+      "fixtureId": 1568561,
+      "dateGroup": "2026-11-13",
+      "kickoff": "2026-11-13T12:00:00+00:00",
+      "hour": "12:00",
+      "status": "FIN",
+      "league": "Poland: III Liga - Group 3",
+      "leagueId": 782,
+      "leagueSeason": 2026,
+      "leagueLogo": "https://media.api-sports.io/football/leagues/782.png",
+      "source": "API-Football",
+      "updatedAt": "2026-11-14T17:04:54.947Z",
+      "enrichedAt": null,
+      "local": {
+        "name": "Goczałkowice Zdrój",
+        "id": "16259",
+        "logo": "https://media.api-sports.io/football/teams/16259.png",
+        "history": []
+      },
+      "visita": {
+        "name": "Stilon Gorzów",
+        "id": "6960",
+        "logo": "https://media.api-sports.io/football/teams/6960.png",
+        "history": []
+      },
+      "leagueProfile": {
+        "avgHomeXG": 1.45,
+        "avgAwayXG": 1.18,
+        "avgHomeCorners": 5.15,
+        "avgAwayCorners": 4.25,
+        "avgHomeCards": 2.15,
+        "avgAwayCards": 2.35,
+        "dixonColesRho": -0.08,
+        "h2hWeight": 0.05
+      },
+      "context": {
+        "importance": "normal",
+        "derby": false,
+        "tieStage": "none",
+        "lineupsStatus": "unconfirmed"
+      },
+      "players": [],
+      "odds": [],
+      "result": {
+        "homeGoals": 2,
+        "awayGoals": 1
+      }
+    },
+    {
+      "id": "apif-1594436",
+      "fixtureId": 1594436,
+      "dateGroup": "2026-11-13",
+      "kickoff": "2026-11-13T12:00:00+00:00",
+      "hour": "12:00",
+      "status": "FIN",
+      "league": "Hungary: NB III - Southeast",
+      "leagueId": 1023,
+      "leagueSeason": 2026,
+      "leagueLogo": "https://media.api-sports.io/football/leagues/1023.png",
+      "source": "API-Football",
+      "updatedAt": "2026-11-14T17:04:54.947Z",
+      "enrichedAt": null,
+      "local": {
+        "name": "Vasas II",
+        "id": "19462",
+        "logo": "https://media.api-sports.io/football/teams/19462.png",
+        "history": []
+      },
+      "visita": {
+        "name": "Szegedi VSE",
+        "id": "7561",
+        "logo": "https://media.api-sports.io/football/teams/7561.png",
+        "history": []
+      },
+      "leagueProfile": {
+        "avgHomeXG": 1.45,
+        "avgAwayXG": 1.18,
+        "avgHomeCorners": 5.15,
+        "avgAwayCorners": 4.25,
+        "avgHomeCards": 2.15,
+        "avgAwayCards": 2.35,
+        "dixonColesRho": -0.08,
+        "h2hWeight": 0.05
+      },
+      "context": {
+        "importance": "normal",
+        "derby": false,
+        "tieStage": "none",
+        "lineupsStatus": "unconfirmed"
+      },
+      "players": [],
+      "odds": [],
+      "result": {
+        "homeGoals": 3,
+        "awayGoals": 0
+      }
+    },
+    {
+      "id": "apif-1594683",
+      "fixtureId": 1594683,
+      "dateGroup": "2026-11-13",
+      "kickoff": "2026-11-13T12:00:00+00:00",
+      "hour": "12:00",
+      "status": "FIN",
+      "league": "Hungary: NB III - Southwest",
+      "leagueId": 634,
+      "leagueSeason": 2026,
+      "leagueLogo": "https://media.api-sports.io/football/leagues/634.png",
+      "source": "API-Football",
+      "updatedAt": "2026-11-14T17:04:54.947Z",
+      "enrichedAt": null,
+      "local": {
+        "name": "Budaörs",
+        "id": "10162",
+        "logo": "https://media.api-sports.io/football/teams/10162.png",
+        "history": []
+      },
+      "visita": {
+        "name": "Érdi VSE",
+        "id": "5153",
+        "logo": "https://media.api-sports.io/football/teams/5153.png",
+        "history": []
+      },
+      "leagueProfile": {
+        "avgHomeXG": 1.45,
+        "avgAwayXG": 1.18,
+        "avgHomeCorners": 5.15,
+        "avgAwayCorners": 4.25,
+        "avgHomeCards": 2.15,
+        "avgAwayCards": 2.35,
+        "dixonColesRho": -0.08,
+        "h2hWeight": 0.05
+      },
+      "context": {
+        "importance": "normal",
+        "derby": false,
+        "tieStage": "none",
+        "lineupsStatus": "unconfirmed"
+      },
+      "players": [],
+      "odds": [],
+      "result": {
+        "homeGoals": 1,
+        "awayGoals": 2
+      }
+    },
+    {
+      "id": "apif-1609962",
+      "fixtureId": 1609962,
+      "dateGroup": "2026-11-13",
+      "kickoff": "2026-11-13T12:00:00+00:00",
+      "hour": "12:00",
+      "status": "FIN",
+      "league": "Bosnia: 1st League - RS",
+      "leagueId": 317,
+      "leagueSeason": 2026,
+      "leagueLogo": "https://media.api-sports.io/football/leagues/317.png",
+      "source": "API-Football",
+      "updatedAt": "2026-11-14T17:04:54.947Z",
+      "enrichedAt": null,
+      "local": {
+        "name": "Drina Zvornik",
+        "id": "4291",
+        "logo": "https://media.api-sports.io/football/teams/4291.png",
+        "history": []
+      },
+      "visita": {
+        "name": "Velež Nevesinje",
+        "id": "15290",
+        "logo": "https://media.api-sports.io/football/teams/15290.png",
+        "history": []
+      },
+      "leagueProfile": {
+        "avgHomeXG": 1.45,
+        "avgAwayXG": 1.18,
+        "avgHomeCorners": 5.15,
+        "avgAwayCorners": 4.25,
+        "avgHomeCards": 2.15,
+        "avgAwayCards": 2.35,
+        "dixonColesRho": -0.08,
+        "h2hWeight": 0.05
+      },
+      "context": {
+        "importance": "normal",
+        "derby": false,
+        "tieStage": "none",
+        "lineupsStatus": "unconfirmed"
+      },
+      "players": [],
+      "odds": [],
+      "result": {
+        "homeGoals": 5,
+        "awayGoals": 0
+      }
+    },
+    {
+      "id": "apif-1632897",
+      "fixtureId": 1632897,
+      "dateGroup": "2026-11-13",
+      "kickoff": "2026-11-13T12:00:00+00:00",
+      "hour": "12:00",
+      "status": "FIN",
+      "league": "Romania: Liga III - Serie 1",
+      "leagueId": 784,
+      "leagueSeason": 2026,
+      "leagueLogo": "https://media.api-sports.io/football/leagues/784.png",
+      "source": "API-Football",
+      "updatedAt": "2026-11-14T17:04:54.947Z",
+      "enrichedAt": null,
+      "local": {
+        "name": "FC Bacău II",
+        "id": "26675",
+        "logo": "https://media.api-sports.io/football/teams/26675.png",
+        "history": []
+      },
+      "visita": {
+        "name": "Târgu Secuiesc",
+        "id": "6909",
+        "logo": "https://media.api-sports.io/football/teams/6909.png",
+        "history": []
+      },
+      "leagueProfile": {
+        "avgHomeXG": 1.45,
+        "avgAwayXG": 1.18,
+        "avgHomeCorners": 5.15,
+        "avgAwayCorners": 4.25,
+        "avgHomeCards": 2.15,
+        "avgAwayCards": 2.35,
+        "dixonColesRho": -0.08,
+        "h2hWeight": 0.05
+      },
+      "context": {
+        "importance": "normal",
+        "derby": false,
+        "tieStage": "none",
+        "lineupsStatus": "unconfirmed"
+      },
+      "players": [],
+      "odds": [],
+      "result": {
+        "homeGoals": 0,
+        "awayGoals": 1
+      }
+    },
+    {
+      "id": "apif-1633027",
+      "fixtureId": 1633027,
+      "dateGroup": "2026-11-13",
+      "kickoff": "2026-11-13T12:00:00+00:00",
+      "hour": "12:00",
+      "status": "FIN",
+      "league": "Romania: Liga III - Serie 2",
+      "leagueId": 785,
+      "leagueSeason": 2026,
+      "leagueLogo": "https://media.api-sports.io/football/leagues/785.png",
+      "source": "API-Football",
+      "updatedAt": "2026-11-14T17:04:54.947Z",
+      "enrichedAt": null,
+      "local": {
+        "name": "ARO Muscelul Câmpulung",
+        "id": "22202",
+        "logo": "https://media.api-sports.io/football/teams/22202.png",
+        "history": []
+      },
+      "visita": {
+        "name": "Valenii de Munte",
+        "id": "26208",
+        "logo": "https://media.api-sports.io/football/teams/26208.png",
+        "history": []
+      },
+      "leagueProfile": {
+        "avgHomeXG": 1.45,
+        "avgAwayXG": 1.18,
+        "avgHomeCorners": 5.15,
+        "avgAwayCorners": 4.25,
+        "avgHomeCards": 2.15,
+        "avgAwayCards": 2.35,
+        "dixonColesRho": -0.08,
+        "h2hWeight": 0.05
+      },
+      "context": {
+        "importance": "normal",
+        "derby": false,
+        "tieStage": "none",
+        "lineupsStatus": "unconfirmed"
+      },
+      "players": [],
+      "odds": [],
+      "result": {
+        "homeGoals": 3,
+        "awayGoals": 1
+      }
+    },
+    {
+      "id": "apif-1633028",
+      "fixtureId": 1633028,
+      "dateGroup": "2026-11-13",
+      "kickoff": "2026-11-13T12:00:00+00:00",
+      "hour": "12:00",
+      "status": "FIN",
+      "league": "Romania: Liga III - Serie 2",
+      "leagueId": 785,
+      "leagueSeason": 2026,
+      "leagueLogo": "https://media.api-sports.io/football/leagues/785.png",
+      "source": "API-Football",
+      "updatedAt": "2026-11-14T17:04:54.947Z",
+      "enrichedAt": null,
+      "local": {
+        "name": "Carpati Covasna",
+        "id": "28323",
+        "logo": "https://media.api-sports.io/football/teams/28323.png",
+        "history": []
+      },
+      "visita": {
+        "name": "Olimpic Zărneşti",
+        "id": "14588",
+        "logo": "https://media.api-sports.io/football/teams/14588.png",
+        "history": []
+      },
+      "leagueProfile": {
+        "avgHomeXG": 1.45,
+        "avgAwayXG": 1.18,
+        "avgHomeCorners": 5.15,
+        "avgAwayCorners": 4.25,
+        "avgHomeCards": 2.15,
+        "avgAwayCards": 2.35,
+        "dixonColesRho": -0.08,
+        "h2hWeight": 0.05
+      },
+      "context": {
+        "importance": "normal",
+        "derby": false,
+        "tieStage": "none",
+        "lineupsStatus": "unconfirmed"
+      },
+      "players": [],
+      "odds": [],
+      "result": {
+        "homeGoals": 0,
+        "awayGoals": 3
+      }
+    },
+    {
+      "id": "apif-1633030",
+      "fixtureId": 1633030,
+      "dateGroup": "2026-11-13",
+      "kickoff": "2026-11-13T12:00:00+00:00",
+      "hour": "12:00",
+      "status": "FIN",
+      "league": "Romania: Liga III - Serie 2",
+      "leagueId": 785,
+      "leagueSeason": 2026,
+      "leagueLogo": "https://media.api-sports.io/football/leagues/785.png",
+      "source": "API-Football",
+      "updatedAt": "2026-11-14T17:04:54.947Z",
+      "enrichedAt": null,
+      "local": {
+        "name": "Kids Tâmpa Braşov",
+        "id": "16292",
+        "logo": "https://media.api-sports.io/football/teams/16292.png",
+        "history": []
+      },
+      "visita": {
+        "name": "Baicoi",
+        "id": "24839",
+        "logo": "https://media.api-sports.io/football/teams/24839.png",
+        "history": []
+      },
+      "leagueProfile": {
+        "avgHomeXG": 1.45,
+        "avgAwayXG": 1.18,
+        "avgHomeCorners": 5.15,
+        "avgAwayCorners": 4.25,
+        "avgHomeCards": 2.15,
+        "avgAwayCards": 2.35,
+        "dixonColesRho": -0.08,
+        "h2hWeight": 0.05
+      },
+      "context": {
+        "importance": "normal",
+        "derby": false,
+        "tieStage": "none",
+        "lineupsStatus": "unconfirmed"
+      },
+      "players": [],
+      "odds": [],
+      "result": {
+        "homeGoals": 0,
+        "awayGoals": 2
+      }
+    },
+    {
+      "id": "apif-1633159",
+      "fixtureId": 1633159,
+      "dateGroup": "2026-11-13",
+      "kickoff": "2026-11-13T12:00:00+00:00",
+      "hour": "12:00",
+      "status": "FIN",
+      "league": "Romania: Liga III - Serie 3",
+      "leagueId": 786,
+      "leagueSeason": 2026,
+      "leagueLogo": "https://media.api-sports.io/football/leagues/786.png",
+      "source": "API-Football",
+      "updatedAt": "2026-11-14T17:04:54.947Z",
+      "enrichedAt": null,
+      "local": {
+        "name": "Râmnicu Sărat",
+        "id": "6897",
+        "logo": "https://media.api-sports.io/football/teams/6897.png",
+        "history": []
+      },
+      "visita": {
+        "name": "Viitorul Corbeanca",
+        "id": "28324",
+        "logo": "https://media.api-sports.io/football/teams/28324.png",
+        "history": []
+      },
+      "leagueProfile": {
+        "avgHomeXG": 1.45,
+        "avgAwayXG": 1.18,
+        "avgHomeCorners": 5.15,
+        "avgAwayCorners": 4.25,
+        "avgHomeCards": 2.15,
+        "avgAwayCards": 2.35,
+        "dixonColesRho": -0.08,
+        "h2hWeight": 0.05
+      },
+      "context": {
+        "importance": "normal",
+        "derby": false,
+        "tieStage": "none",
+        "lineupsStatus": "unconfirmed"
+      },
+      "players": [],
+      "odds": [],
+      "result": {
+        "homeGoals": 1,
+        "awayGoals": 1
+      }
+    },
+    {
+      "id": "apif-1633162",
+      "fixtureId": 1633162,
+      "dateGroup": "2026-11-13",
+      "kickoff": "2026-11-13T12:00:00+00:00",
+      "hour": "12:00",
+      "status": "FIN",
+      "league": "Romania: Liga III - Serie 3",
+      "leagueId": 786,
+      "leagueSeason": 2026,
+      "leagueLogo": "https://media.api-sports.io/football/leagues/786.png",
+      "source": "API-Football",
+      "updatedAt": "2026-11-14T17:04:54.947Z",
+      "enrichedAt": null,
+      "local": {
+        "name": "Urban Titu",
+        "id": "24379",
+        "logo": "https://media.api-sports.io/football/teams/24379.png",
+        "history": []
+      },
+      "visita": {
+        "name": "Flacăra Moreni",
+        "id": "6862",
+        "logo": "https://media.api-sports.io/football/teams/6862.png",
+        "history": []
+      },
+      "leagueProfile": {
+        "avgHomeXG": 1.45,
+        "avgAwayXG": 1.18,
+        "avgHomeCorners": 5.15,
+        "avgAwayCorners": 4.25,
+        "avgHomeCards": 2.15,
+        "avgAwayCards": 2.35,
+        "dixonColesRho": -0.08,
+        "h2hWeight": 0.05
+      },
+      "context": {
+        "importance": "normal",
+        "derby": false,
+        "tieStage": "none",
+        "lineupsStatus": "unconfirmed"
+      },
+      "players": [],
+      "odds": [],
+      "result": {
+        "homeGoals": 0,
+        "awayGoals": 2
+      }
+    }
+  ]
+}
