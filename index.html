@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <meta name="theme-color" content="#0b0d11">
+  <meta name="description" content="StatsPro: análisis estadístico de fútbol con datos en tiempo real, trazabilidad y evaluación de modelos.">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; connect-src 'self' https://v3.football.api-sports.io; font-src 'self'; object-src 'none'; base-uri 'self'; form-action 'self'">
+  <title>StatsPro | Análisis Deportivo</title>
+  <link rel="manifest" href="manifest.json">
+  <link rel="icon" href="assets/icon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="css/style.css">
+  <style>
+    .search-bar-wrap {
+      padding: 10px 14px 4px;
+      background: #0b0d11;
+    }
+    .search-input-box {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      background: #141821;
+      border: 1px solid #232a38;
+      border-radius: 12px;
+      padding: 8px 12px;
+    }
+    .search-input-box:focus-within {
+      border-color: #10b981;
+    }
+    .search-icon {
+      color: #10b981;
+      font-size: 0.95rem;
+      flex-shrink: 0;
+    }
+    .search-input {
+      flex: 1;
+      background: transparent;
+      border: none;
+      color: #f3f4f6;
+      font-size: 0.92rem;
+      outline: none;
+      min-width: 0;
+    }
+    .search-input::placeholder {
+      color: #6b7280;
+    }
+    .search-clear-btn {
+      background: #1f2633;
+      border: none;
+      color: #9ca3af;
+      width: 22px;
+      height: 22px;
+      border-radius: 50%;
+      font-size: 0.75rem;
+      cursor: pointer;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+    }
+    .date-strip-scroll {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      overflow-x: auto;
+      padding: 8px 14px 10px;
+      scrollbar-width: none;
+      -webkit-overflow-scrolling: touch;
+      border-bottom: 1px solid #1c2230;
+    }
+    .date-strip-scroll::-webkit-scrollbar {
+      display: none;
+    }
+    .date-pill {
+      flex: 0 0 auto;
+      background: #141821;
+      border: 1px solid #232a38;
+      color: #9ca3af;
+      border-radius: 10px;
+      padding: 6px 12px;
+      font-size: 0.8rem;
+      font-weight: 600;
+      cursor: pointer;
+      white-space: nowrap;
+      transition: all 0.15s ease;
+    }
+    .date-pill.active {
+      background: rgba(16, 185, 129, 0.16);
+      border-color: #10b981;
+      color: #10b981;
+    }
+    .date-picker-label {
+      flex: 0 0 auto;
+      position: relative;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      background: #141821;
+      border: 1px solid #232a38;
+      color: #e5e7eb;
+      border-radius: 10px;
+      padding: 6px 10px;
+      font-size: 0.85rem;
+      cursor: pointer;
+    }
+    .date-picker-label input[type="date"] {
+      position: absolute;
+      inset: 0;
+      opacity: 0;
+      width: 100%;
+      height: 100%;
+      cursor: pointer;
+    }
+    .league-title-wrap {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      min-width: 0;
+    }
+    .league-flag {
+      width: 18px;
+      height: 18px;
+      object-fit: contain;
+      flex-shrink: 0;
+    }
+  </style>
+</head>
+<body>
+  <div id="toast-region" class="toast-region" role="status" aria-live="polite"></div>
+  <input id="data-file-input" type="file" accept="application/json,.json" hidden>
+
+  <!-- INICIO -->
+  <section id="vista-home" class="view active">
+    <header class="app-header">
+      <div class="logo">Stats<span>Pro</span></div>
+      <button class="vip-badge" type="button" data-route="perfil">API ACTIVA</button>
+    </header>
+
+    <main class="container home-container">
+      <section class="stat-card hero-card">
+        <span class="vip-tag-clean">ANALÍTICA CUANTITATIVA</span>
+        <h2>Modelos estadísticos de fútbol</h2>
+        <p>Proyecciones basadas en xG, fuerza relativa por competición, Dixon–Coles, distribuciones binomiales negativas y evaluación histórica.</p>
+        <button class="primary-action" type="button" data-route="partidos">Abrir análisis de partidos <span aria-hidden="true">›</span></button>
+      </section>
+
+      <div class="quick-grid-2x2">
+        <button class="quick-box quick-box-button" type="button" data-route="partidos">
+          <span class="qbox-top"><span class="qbox-label">Partidos</span><span>⚽</span></span>
+          <span class="qbox-main"><span class="qbox-prob high">Cartelera</span></span>
+          <span class="qbox-footer"><span>API-Football</span><strong>En vivo</strong></span>
+        </button>
+        <button class="quick-box quick-box-button" type="button" data-route="value">
+          <span class="qbox-top"><span class="qbox-label">Radar Value</span><span>⚡</span></span>
+          <span class="qbox-main"><span class="qbox-prob">+EV</span></span>
+          <span class="qbox-footer"><span>Sin picks automáticos</span><strong>3+ casas</strong></span>
+        </button>
+        <button class="quick-box quick-box-button" type="button" data-route="historial">
+          <span class="qbox-top"><span class="qbox-label">Historial</span><span>◷</span></span>
+          <span class="qbox-main"><span class="qbox-prob">Calibración</span></span>
+          <span class="qbox-footer"><span>Brier y CLV</span><strong>Tracking</strong></span>
+        </button>
+        <button class="quick-box quick-box-button" type="button" data-route="perfil">
+          <span class="qbox-top"><span class="qbox-label">Configuración</span><span>⚙</span></span>
+          <span class="qbox-main"><span class="qbox-prob">Modelo</span></span>
+          <span class="qbox-footer"><span>Datos y banca</span><strong>Control</strong></span>
+        </button>
+      </div>
+
+      <section class="stat-card">
+        <div class="card-top-bar"><span class="card-title">Estado de los datos</span><span class="status-dot"></span></div>
+        <p class="muted-copy">Conectado a API-Football con caché local para proteger tu cuota diaria. Explora múltiples fechas y filtra por equipo al instante.</p>
+        <div class="button-row">
+          <button class="secondary-action" type="button" data-action="import">Importar datos JSON</button>
+          <a class="secondary-action link-action" href="plantilla-datos.json" download>Ver plantilla</a>
+        </div>
+      </section>
+
+      <section class="notice-card responsible-notice">
+        <strong>Juego responsable · Solo mayores de 18 años</strong>
+        <p>Las probabilidades son estimaciones sujetas a error y no garantizan resultados ni beneficios. No apuestes dinero que no puedas permitirte perder. StatsPro no verifica la edad del usuario ni acepta apuestas.</p>
+      </section>
+    </main>
+  </section>
+
+  <!-- VISTAS DE LISTADO Y HERRAMIENTAS -->
+  <section id="vista-inicio" class="view">
+    <header class="app-header">
+      <div class="logo">Stats<span>Pro</span></div>
+      <button id="header-import-btn" class="vip-badge" type="button" data-action="import">IMPORTAR JSON</button>
+    </header>
+
+    <div id="barra-busqueda-wrap" class="search-bar-wrap" hidden>
+      <div class="search-input-box">
+        <span class="search-icon" aria-hidden="true">🔍</span>
+        <input id="input-busqueda-partidos" class="search-input" type="search" placeholder="Buscar equipo o competición..." autocomplete="off">
+        <button id="btn-limpiar-busqueda" class="search-clear-btn" type="button" hidden aria-label="Limpiar búsqueda">✕</button>
+      </div>
+    </div>
+
+    <nav id="barra-fechas" class="date-strip-scroll" aria-label="Selector de fecha" hidden></nav>
+    <main class="container" id="contenedor-principal"></main>
+  </section>
+
+  <!-- DETALLE DE PARTIDO -->
+  <section id="vista-detalle" class="view">
+    <header class="detail-header">
+      <button id="btn-volver" class="back-btn" type="button"><span aria-hidden="true">‹</span><span>Partidos</span></button>
+      <span id="detalle-liga" class="detail-league-name">Competición</span>
+      <span class="header-spacer"></span>
+    </header>
+
+    <section class="match-hero">
+      <div class="hero-team">
+        <div id="hero-logo-local" class="team-crest" aria-hidden="true"></div>
+        <h2 id="hero-nombre-local">Local</h2>
+        <div id="hero-racha-local" class="streak-row"></div>
+      </div>
+      <div class="hero-center">
+        <span id="hero-hora" class="hero-time">—</span>
+        <span id="hero-estado" class="hero-status">API-Football</span>
+      </div>
+      <div class="hero-team">
+        <div id="hero-logo-visita" class="team-crest away" aria-hidden="true"></div>
+        <h2 id="hero-nombre-visita">Visitante</h2>
+        <div id="hero-racha-visita" class="streak-row"></div>
+      </div>
+    </section>
+
+    <main class="container" id="vista-rapida-partido"></main>
+
+    <section id="panel-analisis-avanzado" class="analysis-panel" hidden>
+      <nav class="inner-tabs" aria-label="Secciones del análisis">
+        <button class="inner-tab active" type="button" data-tab="resumen">Resumen</button>
+        <button class="inner-tab" type="button" data-tab="mercados">Mercados</button>
+        <button class="inner-tab" type="button" data-tab="corners">Córners</button>
+        <button class="inner-tab" type="button" data-tab="tarjetas">Tarjetas</button>
+        <button class="inner-tab" type="button" data-tab="contexto">Contexto</button>
+        <button class="inner-tab" type="button" data-tab="jugadores">Jugadores</button>
+      </nav>
+      <main class="container" id="contenido-pestana"></main>
+    </section>
+  </section>
+
+  <!-- NAVEGACIÓN -->
+  <nav class="bottom-nav" aria-label="Navegación principal">
+    <button class="nav-item active" type="button" data-route="home"><span aria-hidden="true">⌂</span><span>Inicio</span></button>
+    <button class="nav-item" type="button" data-route="partidos"><span aria-hidden="true">⚽</span><span>Partidos</span></button>
+    <button class="nav-item" type="button" data-route="value"><span aria-hidden="true">↗</span><span>Value</span></button>
+    <button class="nav-item" type="button" data-route="historial"><span aria-hidden="true">◷</span><span>Historial</span></button>
+    <button class="nav-item" type="button" data-route="perfil"><span aria-hidden="true">⚙</span><span>Ajustes</span></button>
+  </nav>
+
+  <script src="js/motor.js" defer></script>
+  <script src="js/api.js" defer></script>
+  <script src="js/app.js" defer></script>
+</body>
+</html>

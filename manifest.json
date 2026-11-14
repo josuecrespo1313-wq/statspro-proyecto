@@ -1,0 +1,16 @@
+{
+  "id": "statspro-app",
+  "name": "StatsPro | Análisis Deportivo",
+  "short_name": "StatsPro",
+  "description": "Análisis cuantitativo de fútbol con datos importados.",
+  "lang": "es",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0b0d11",
+  "theme_color": "#0b0d11",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "assets/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}

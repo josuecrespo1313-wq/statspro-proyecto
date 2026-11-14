@@ -1,0 +1,107 @@
+{
+  "matches": [
+    {
+      "id": "identificador-unico",
+      "dateGroup": "hoy",
+      "kickoff": "2026-11-13T20:00:00-04:00",
+      "hour": "20:00",
+      "status": "PRE",
+      "league": "NOMBRE DE LA COMPETICION",
+      "source": "Indica aquí proveedor o fuente de los datos",
+      "updatedAt": "2026-11-13T12:00:00-04:00",
+      "leagueProfile": {
+        "avgHomeXG": 0,
+        "avgAwayXG": 0,
+        "avgHomeCorners": 0,
+        "avgAwayCorners": 0,
+        "avgHomeCards": 0,
+        "avgAwayCards": 0,
+        "dispersionCorners": 0,
+        "dispersionCards": 0,
+        "dixonColesRho": -0.08,
+        "h2hWeight": 0.05
+      },
+      "local": {
+        "name": "NOMBRE EQUIPO LOCAL",
+        "id": "id-equipo-local",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "venue": "home",
+            "xGFor": null,
+            "xGAgainst": null,
+            "goalsFor": null,
+            "goalsAgainst": null,
+            "cornersFor": null,
+            "cornersAgainst": null,
+            "cards": null,
+            "offsides": null,
+            "shotsOnTarget": null,
+            "shotsTotal": null
+          }
+        ]
+      },
+      "visita": {
+        "name": "NOMBRE EQUIPO VISITANTE",
+        "id": "id-equipo-visitante",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "venue": "away",
+            "xGFor": null,
+            "xGAgainst": null,
+            "goalsFor": null,
+            "goalsAgainst": null,
+            "cornersFor": null,
+            "cornersAgainst": null,
+            "cards": null,
+            "offsides": null,
+            "shotsOnTarget": null,
+            "shotsTotal": null
+          }
+        ]
+      },
+      "context": {
+        "importance": "normal",
+        "derby": false,
+        "tieStage": "none",
+        "lineupsStatus": "unconfirmed",
+        "homeRestDays": null,
+        "awayRestDays": null,
+        "awayTravelKm": null,
+        "venueAltitudeM": null,
+        "awayHomeAltitudeM": null,
+        "homeAbsenceXGImpact": null,
+        "awayAbsenceXGImpact": null,
+        "homeWeatherFactor": null,
+        "awayWeatherFactor": null,
+        "weatherDescription": ""
+      },
+      "referee": {
+        "name": "",
+        "avgCards": null,
+        "sampleSize": null
+      },
+      "h2h": [],
+      "players": [
+        {
+          "name": "NOMBRE JUGADOR",
+          "team": "NOMBRE EQUIPO",
+          "status": "available",
+          "history": [
+            { "date": "2026-11-12", "shotsOnTarget": null, "shotsTotal": null }
+          ]
+        }
+      ],
+      "odds": [
+        { "market": "goals_2_5", "bookmaker": "CASA A", "side": "over", "price": null },
+        { "market": "goals_2_5", "bookmaker": "CASA A", "side": "under", "price": null },
+        { "market": "goals_2_5", "bookmaker": "CASA B", "side": "over", "price": null },
+        { "market": "goals_2_5", "bookmaker": "CASA B", "side": "under", "price": null },
+        { "market": "goals_2_5", "bookmaker": "CASA C", "side": "over", "price": null },
+        { "market": "goals_2_5", "bookmaker": "CASA C", "side": "under", "price": null }
+      ],
+      "result": null
+    }
+  ]
+}
