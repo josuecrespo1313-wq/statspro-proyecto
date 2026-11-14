@@ -1,0 +1,26 @@
+name: Actualizar Datos StatsPro
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - run: node scripts/actualizar.js
+        env:
+          API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
+      - run: |
+          git config user.name "StatsPro Bot"
+          git config user.email "bot@statspro.app"
+          git add data/partidos.json
+          git diff --staged --quiet || git commit -m "Actualización automática de análisis"
+          git push
